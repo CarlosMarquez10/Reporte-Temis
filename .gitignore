@@ -1,3 +1,4 @@
 node_modules/
 Download/
 .env
+src/config.js

@@ -1,30 +1,20 @@
 import path from 'path';
-import fs from 'fs';
 import { fileURLToPath } from 'url';
-import { downloadFile as downloadFileFromPuppeteer } from '../utils/puppeteerUtils.js';
 
+// Obtener la ruta del directorio actual
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 export const uploadFile = (req, res) => {
-  if (!req.body.fileName || !req.body.content) {
-    return res.status(400).send('Missing fileName or content');
-  }
-
-  const filePath = path.join(__dirname, '../../Download', req.body.fileName);
-
-  fs.writeFile(filePath, req.body.content, (err) => {
-    if (err) {
-      return res.status(500).send('Error saving file');
-    }
-    res.send('File saved successfully');
-  });
+  // Implementación del controlador uploadFile
 };
 
-export const downloadFile = async (req, res) => {
-  const fileUrl = req.query.url;
-  const filePath = path.join(__dirname, '../../Download', 'archivoDescargado.xlsx');
+export const downloadFile = (req, res) => {
+  // Implementación del controlador downloadFile
+};
 
-  await downloadFileFromPuppeteer(fileUrl, filePath);
-  res.download(filePath);
+// Nuevo controlador para servir el archivo JSON
+export const getJsonData = (req, res) => {
+  const jsonFilePath = path.join(__dirname, '..', 'models', 'RepoHabilitacion.json');
+  res.sendFile(jsonFilePath);
 };
