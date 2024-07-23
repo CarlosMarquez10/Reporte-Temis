@@ -1,0 +1,577 @@
+{
+  "Nombre": "ALVARO LUIS GONZALEZ BASTO",
+  "Cedula": 88271021,
+  "Rol": "Supervisor",
+  "ProyectoSede": "CUCUTA",
+  "Proceso": "CUCUTA-SCR",
+  "CantidadOperativa": 11,
+  "Cantidad_Inspecciones": 60,
+  "Cantidad_InpsPendiente": 27,
+  "Cantidad_NoConformidades": 2,
+  "OperarioConNocomformidad": [
+    {
+      "Nombre": "ANDRES DAVID HERNANDEZ AREVALO"
+    },
+    {
+      "Nombre": "RICARDO ARLEY JIMENEZ FUENTES"
+    }
+  ],
+  "Cantidad_Atentos": 2,
+  "OperarioConAtentos": [
+    {
+      "Nombre": "RICARDO ARLEY JIMENEZ FUENTES",
+      "tipoAtento": "02) Acto Inseguro",
+      "DescubrirAtento": "se sorprende conduciendo motocicleta sin guantes ",
+      "Observaciones": "operario se sorprende conduciendo motocicleta sin guantes ",
+      "fecha": 45483.445462963
+    },
+    {
+      "Nombre": "ANDRES DAVID HERNANDEZ AREVALO",
+      "tipoAtento": "02) Acto Inseguro",
+      "DescubrirAtento": "operario se sorprende conduciendo motocicleta sin guantes ",
+      "Observaciones": "operario se sorprende conduciendo motocicleta sin guantes ",
+      "fecha": 45483.4475462963
+    }
+  ],
+  "Cantidad_Inpeccionados": 31,
+  "NombreInsPeccionados": [
+    {
+      "Nombre": "HEYSON FERNEY ARIAS MENESES"
+    },
+    {
+      "Nombre": "JESUS EDILSO URQUIJO CRUZ"
+    },
+    {
+      "Nombre": "JESUS DAVID CAMPEROS VARGAS"
+    },
+    {
+      "Nombre": "ELISAIR ARDILA DURAN"
+    },
+    {
+      "Nombre": "FREDDY FABIAN ALADINO CRUZ"
+    },
+    {
+      "Nombre": "ANDRES DAVID HERNANDEZ AREVALO"
+    },
+    {
+      "Nombre": "ANDRES DAVID HERNANDEZ AREVALO"
+    },
+    {
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA"
+    },
+    {
+      "Nombre": "EDUAR DAVID CORAL FLOREZ"
+    },
+    {
+      "Nombre": "EDINSON FABIAN SANTAMARIA MALDONADO"
+    },
+    {
+      "Nombre": "DIEGO ALEXANDER PEREZ AREVALO"
+    },
+    {
+      "Nombre": "JHOSER ANDRES CORAL FLOREZ"
+    },
+    {
+      "Nombre": "RICARDO ARLEY JIMENEZ FUENTES"
+    },
+    {
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL"
+    },
+    {
+      "Nombre": "JOSE LUIS FORERO MORENO"
+    },
+    {
+      "Nombre": "FREDDY FABIAN ALADINO CRUZ"
+    },
+    {
+      "Nombre": "ALBERTO JOSE AGUAS SOTO"
+    },
+    {
+      "Nombre": "EDUAR DAVID CORAL FLOREZ"
+    },
+    {
+      "Nombre": "DIEGO ANDRES PAEZ RINCON"
+    },
+    {
+      "Nombre": "EDWIN MONSALVE"
+    },
+    {
+      "Nombre": "FREDDY FABIAN ALADINO CRUZ"
+    },
+    {
+      "Nombre": "LUIS MIGUEL TRIANA CARDENAS"
+    },
+    {
+      "Nombre": "JOSE LUIS FORERO MORENO"
+    },
+    {
+      "Nombre": "ANDRES DAVID HERNANDEZ AREVALO"
+    },
+    {
+      "Nombre": "ANDERSON STIVEN FLORES BASTO"
+    },
+    {
+      "Nombre": "TULIO EDGAR RODRIGUEZ RAMIREZ"
+    },
+    {
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL"
+    },
+    {
+      "Nombre": "LUVER LISAND CASTELLANOS ARIAS"
+    },
+    {
+      "Nombre": "DIEGO ALEXANDER PEREZ AREVALO"
+    },
+    {
+      "Nombre": "EDINSON GEOVANY CARRASCAL CARDENAS"
+    },
+    {
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA"
+    }
+  ],
+  "Nombre_PtePorInspecciones": [
+    {
+      "Nombre": "RODRIGUEZ QUINTERO EDUARDO",
+      "Proceso": "CUCUTA-INTERVENTOR"
+    },
+    {
+      "Nombre": "DUARTE MARTINEZ NELLY PATRICIA",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "RODRIGUEZ QUINTERO MARIA ISABEL",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "HERNANDEZ BADILLO NANCY",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "LOPEZ PEREZ FRANKLIN ",
+      "Proceso": "CUCUTA-DRASTICOS"
+    },
+    {
+      "Nombre": "MENDOZA PARDO EDGAR YOHEDMAR",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "PEREZ PEREZ CIRO",
+      "Proceso": "ADMIN"
+    },
+    {
+      "Nombre": "ORTEGA ORTIZ JULIETH NATALIA",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "MONTAÑEZ ROJAS ELIANA PATRICIA",
+      "Proceso": "CUCUTA-FACTURACION"
+    },
+    {
+      "Nombre": "JAIMES JAIMES EDSON ",
+      "Proceso": "CUCUTA-DRASTICOS"
+    },
+    {
+      "Nombre": "MEDINA SAAVEDRA DIEGO ANDRES",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "SUAREZ CABEZA MARCOS FIDEL",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "MARQUEZ VALENCIA CARLOS DAVID",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "GARCIA CONTRERAS CESAR EDUARDO",
+      "Proceso": "CUCUTA"
+    },
+    {
+      "Nombre": "ORTEGA NAVARRO OSMEL",
+      "Proceso": "CUCUTA"
+    },
+    {
+      "Nombre": "MENDOZA CASTRO JORMAN DAMIAN",
+      "Proceso": "CUCUTA-FACTURACION"
+    },
+    {
+      "Nombre": "PEÑARANDA OMEARA IVAN ANDRES ",
+      "Proceso": "CUCUTA-FACTURACION"
+    },
+    {
+      "Nombre": "GALLO SILVA ANDRES FELIPE",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "ORTIZ CORREA ANDERSON",
+      "Proceso": "CUCUTA-SSTA"
+    },
+    {
+      "Nombre": "GRISALES AILLON JHON ALEXANDER",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "SIERRA JAIMES MIRYAM JOHANA",
+      "Proceso": "CUCUTA-SSTA"
+    },
+    {
+      "Nombre": "ACEVEDO ORTIZ CESAR AUGUSTO",
+      "Proceso": "CUCUTA-FACTURACION"
+    }
+  ],
+  "Cantidad_PtePorInspecciones": 22,
+  "CantidaInspAnterior": 8,
+  "NombreInspAnterior": [
+    {
+      "Nombre": "ALBERTO JOSE AGUAS SOTO",
+      "Proceso": "Conforme"
+    },
+    {
+      "Nombre": "EDUAR DAVID CORAL FLOREZ",
+      "Proceso": "Conforme"
+    },
+    {
+      "Nombre": "DIEGO ANDRES PAEZ RINCON",
+      "Proceso": "Conforme"
+    },
+    {
+      "Nombre": "ANDERSON STIVEN FLORES BASTO",
+      "Proceso": "Conforme"
+    },
+    {
+      "Nombre": "TULIO EDGAR RODRIGUEZ RAMIREZ",
+      "Proceso": "Conforme"
+    },
+    {
+      "Nombre": "DIEGO ALEXANDER PEREZ AREVALO",
+      "Proceso": "Conforme"
+    },
+    {
+      "Nombre": "EDINSON GEOVANY CARRASCAL CARDENAS",
+      "Proceso": "Conforme"
+    },
+    {
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA",
+      "Proceso": "Conforme"
+    }
+  ],
+  "CantidadInspPosterior": 23,
+  "NombreInspPosterior": [
+    {
+      "Nombre": "HEYSON FERNEY ARIAS MENESES",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JESUS EDILSO URQUIJO CRUZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JESUS DAVID CAMPEROS VARGAS",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ELISAIR ARDILA DURAN",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "FREDDY FABIAN ALADINO CRUZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ANDRES DAVID HERNANDEZ AREVALO",
+      "ResultInsp": "No Conforme"
+    },
+    {
+      "Nombre": "ANDRES DAVID HERNANDEZ AREVALO",
+      "ResultInsp": "No Conforme"
+    },
+    {
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDUAR DAVID CORAL FLOREZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDINSON FABIAN SANTAMARIA MALDONADO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "DIEGO ALEXANDER PEREZ AREVALO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JHOSER ANDRES CORAL FLOREZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "RICARDO ARLEY JIMENEZ FUENTES",
+      "ResultInsp": "No Conforme"
+    },
+    {
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JOSE LUIS FORERO MORENO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "FREDDY FABIAN ALADINO CRUZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDWIN MONSALVE",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "FREDDY FABIAN ALADINO CRUZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "LUIS MIGUEL TRIANA CARDENAS",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JOSE LUIS FORERO MORENO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ANDRES DAVID HERNANDEZ AREVALO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "LUVER LISAND CASTELLANOS ARIAS",
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "MotivoDeInspeccion": [
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "HEYSON FERNEY ARIAS MENESES",
+      "FechaInicio": 45468.5002199074,
+      "FechaFinal": 45476.6622106481,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "JESUS EDILSO URQUIJO CRUZ",
+      "FechaInicio": 45476.6470833333,
+      "FechaFinal": 45476.6536342593,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "JESUS DAVID CAMPEROS VARGAS",
+      "FechaInicio": 45477.7005671296,
+      "FechaFinal": 45477.7052893518,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "ELISAIR ARDILA DURAN",
+      "FechaInicio": 45477.7088194444,
+      "FechaFinal": 45477.7142361111,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "FREDDY FABIAN ALADINO CRUZ",
+      "FechaInicio": 45482.4082175926,
+      "FechaFinal": 45482.4167939815,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "ANDRES DAVID HERNANDEZ AREVALO",
+      "FechaInicio": 45482.4262152778,
+      "FechaFinal": 45482.4393634259,
+      "ResultInsp": "No Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "ANDRES DAVID HERNANDEZ AREVALO",
+      "FechaInicio": 45482.4262152778,
+      "FechaFinal": 45482.4393634259,
+      "ResultInsp": "No Conforme"
+    },
+    {
+      "TipoInspeccion": "20 - Insp Calidad SCR Energía",
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA",
+      "FechaInicio": 45482.446875,
+      "FechaFinal": 45482.4575462963,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "EDUAR DAVID CORAL FLOREZ",
+      "FechaInicio": 45482.4598611111,
+      "FechaFinal": 45482.4646875,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "EDINSON FABIAN SANTAMARIA MALDONADO",
+      "FechaInicio": 45482.6449537037,
+      "FechaFinal": 45482.6561458333,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "DIEGO ALEXANDER PEREZ AREVALO",
+      "FechaInicio": 45482.6732407407,
+      "FechaFinal": 45482.6802546296,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "JHOSER ANDRES CORAL FLOREZ",
+      "FechaInicio": 45482.6921296296,
+      "FechaFinal": 45482.7024537037,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "RICARDO ARLEY JIMENEZ FUENTES",
+      "FechaInicio": 45483.4361342593,
+      "FechaFinal": 45483.4453009259,
+      "ResultInsp": "No Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL",
+      "FechaInicio": 45483.4605324074,
+      "FechaFinal": 45483.4737615741,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "JOSE LUIS FORERO MORENO",
+      "FechaInicio": 45488.4214467593,
+      "FechaFinal": 45488.4284490741,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "FREDDY FABIAN ALADINO CRUZ",
+      "FechaInicio": 45488.4475925926,
+      "FechaFinal": 45488.4658449074,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "ALBERTO JOSE AGUAS SOTO",
+      "FechaInicio": 45489.6351967593,
+      "FechaFinal": 45489.6423958333,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "EDUAR DAVID CORAL FLOREZ",
+      "FechaInicio": 45489.643912037,
+      "FechaFinal": 45489.6469444444,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "DIEGO ANDRES PAEZ RINCON",
+      "FechaInicio": 45489.652349537,
+      "FechaFinal": 45490.7472800926,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "EDWIN MONSALVE",
+      "FechaInicio": 45490.4044328704,
+      "FechaFinal": 45490.4111921296,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "FREDDY FABIAN ALADINO CRUZ",
+      "FechaInicio": 45490.4152199074,
+      "FechaFinal": 45490.420162037,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "20 - Insp Calidad SCR Energía",
+      "Nombre": "LUIS MIGUEL TRIANA CARDENAS",
+      "FechaInicio": 45490.4221990741,
+      "FechaFinal": 45490.4258796296,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "JOSE LUIS FORERO MORENO",
+      "FechaInicio": 45490.4546990741,
+      "FechaFinal": 45490.4705208333,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "ANDRES DAVID HERNANDEZ AREVALO",
+      "FechaInicio": 45490.743275463,
+      "FechaFinal": 45491.4420601852,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "ANDERSON STIVEN FLORES BASTO",
+      "FechaInicio": 45490.7473148148,
+      "FechaFinal": 45490.7498726852,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "TULIO EDGAR RODRIGUEZ RAMIREZ",
+      "FechaInicio": 45490.7501851852,
+      "FechaFinal": 45490.7528472222,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL",
+      "FechaInicio": 45491.4532638889,
+      "FechaFinal": 45491.4646180556,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "LUVER LISAND CASTELLANOS ARIAS",
+      "FechaInicio": 45491.4710648148,
+      "FechaFinal": 45491.4778935185,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "DIEGO ALEXANDER PEREZ AREVALO",
+      "FechaInicio": 45492.4266087963,
+      "FechaFinal": 45492.4286458333,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "EDINSON GEOVANY CARRASCAL CARDENAS",
+      "FechaInicio": 45492.4301273148,
+      "FechaFinal": 45492.4363425926,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA",
+      "FechaInicio": 45492.4397106481,
+      "FechaFinal": 45492.4433680556,
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "InspPorHora": {
+    "TipoDocumento": "",
+    "CantidadTipoDocumento": 0,
+    "HoraTipoDocumento": ""
+  }
+}

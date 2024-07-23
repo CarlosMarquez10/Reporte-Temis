@@ -1,0 +1,2549 @@
+[
+  {
+    "Proyecto/Sede": "ALMACEN",
+    "N° de cédula": 1000,
+    "NOMBRES Y APELLIDOS": "ALMACEN CUCUTA",
+    "Proyecto/Sede_1": "ALMACEN",
+    "estado": "Activo",
+    "tipo bodega": "Bodega",
+    "Proyecto/Sede_2": "ALMACEN"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 2000,
+    "NOMBRES Y APELLIDOS": "SEDE PAMPLONA",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 3000,
+    "NOMBRES Y APELLIDOS": "SEDE OCAÑA",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "TIBU",
+    "N° de cédula": 4000,
+    "NOMBRES Y APELLIDOS": "SEDE TIBU",
+    "Proyecto/Sede_1": "TIBU",
+    "estado": "Activo",
+    "tipo bodega": "Bodega",
+    "Proyecto/Sede_2": "TIBU"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 5000,
+    "NOMBRES Y APELLIDOS": "SEDE AGUACHICA",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 5401549,
+    "NOMBRES Y APELLIDOS": "GALAN ROPERO FRANCISCO EMANUEL",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 5415702,
+    "NOMBRES Y APELLIDOS": "ESLAVA CARVAJAL JORGE ELIECER",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 5415770,
+    "NOMBRES Y APELLIDOS": "CALDERON MONCADA JUAN CARLOS",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 5417131,
+    "NOMBRES Y APELLIDOS": "CLAVIJO ROJAS HERMES",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 5417331,
+    "NOMBRES Y APELLIDOS": "CLAVIJO ROJAS DIONEL ANTONIO",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 5427116,
+    "NOMBRES Y APELLIDOS": "QUINTERO SANGUINO WILLIAM",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 5459919,
+    "NOMBRES Y APELLIDOS": "TORRADO MELO LUIS CESAR",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 5468549,
+    "NOMBRES Y APELLIDOS": "JOSE LUIS SANCHEZ MARTINEZ",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 5468600,
+    "NOMBRES Y APELLIDOS": "ASCANIO PEREZ ALEXANDER",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 5469445,
+    "NOMBRES Y APELLIDOS": "VEGA BLANCO WISTON",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 5470744,
+    "NOMBRES Y APELLIDOS": "GAONA PEÑARANDA ALEXIS ALFONSO",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 5472280,
+    "NOMBRES Y APELLIDOS": "CALVO RODRIGUEZ OSCAR JAVIER",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 5525886,
+    "NOMBRES Y APELLIDOS": "ALVARO RAMON BOHORQUEZ GAFARO",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 5529428,
+    "NOMBRES Y APELLIDOS": "FLOREZ RODRIGUEZ MIGUEL HONORIO",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 5531760,
+    "NOMBRES Y APELLIDOS": "PEREZ RAMIREZ JHON ALEXANDER",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 9692127,
+    "NOMBRES Y APELLIDOS": "INFANTE SANCHEZ  MAURICIO",
+    "Proyecto/Sede_1": "AGUACHICA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 9694133,
+    "NOMBRES Y APELLIDOS": "ALVARO DE JESUS GOMEZ CHINCHILLA",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 9694903,
+    "NOMBRES Y APELLIDOS": "HELBERT MANUEL DURAN QUINTERO",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 13140927,
+    "NOMBRES Y APELLIDOS": "AREVALO GOMEZ FREIMAN ANTONIO",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 13168455,
+    "NOMBRES Y APELLIDOS": "SALCEDO CRIADO VICTOR ALEXANDER",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 13175492,
+    "NOMBRES Y APELLIDOS": "CORONEL BAYONA  OSCAR EMILIO",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 13271434,
+    "NOMBRES Y APELLIDOS": "ARIAS MENESES HEYSON FERNEY",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 13277759,
+    "NOMBRES Y APELLIDOS": "OTERO JAUREGUI PEDRO ENRIQUE",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 13374132,
+    "NOMBRES Y APELLIDOS": "TORRADO SANCHEZ ARIDES ",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 13379208,
+    "NOMBRES Y APELLIDOS": "PEREZ BAYONA FREDY",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 13379489,
+    "NOMBRES Y APELLIDOS": "DIAZ DURAN PEDRO ALEXANDER",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 13379986,
+    "NOMBRES Y APELLIDOS": "CONTRERAS CELIS MISAEL ALEXANDER",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 13411460,
+    "NOMBRES Y APELLIDOS": "DIAZ LEAL LUIS ENRIQUE",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 13473944,
+    "NOMBRES Y APELLIDOS": "RODRIGUEZ RAMIREZ TULIO EDGAR",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 13490693,
+    "NOMBRES Y APELLIDOS": "LEIVA HERNANDEZ SERGIO MIGUEL",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 13505347,
+    "NOMBRES Y APELLIDOS": "RODRIGUEZ QUINTERO EDUARDO",
+    "Proyecto/Sede_1": "CUCUTA-INTERVENTOR",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 13511002,
+    "NOMBRES Y APELLIDOS": "PAEZ VACCA EDIL",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 17595510,
+    "NOMBRES Y APELLIDOS": "ROBINSON ALEXANDER PARRA VARGAS",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 18926009,
+    "NOMBRES Y APELLIDOS": "NOVOA BALLESTEROS JOSE ALEXANDER",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 18928151,
+    "NOMBRES Y APELLIDOS": "ALIRIO  QUINTERO RANGEL",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 18972156,
+    "NOMBRES Y APELLIDOS": "RODRIGO ALBERTO CAPERA LOPEZ",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 27706700,
+    "NOMBRES Y APELLIDOS": "DIANA AGUSTINA SANCHEZ IBAÑEZ",
+    "Proyecto/Sede_1": "CUCUTA-ADMON",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 37344489,
+    "NOMBRES Y APELLIDOS": "LOPEZ URBINA JAQUELINE ",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 37545832,
+    "NOMBRES Y APELLIDOS": "DUARTE MARTINEZ NELLY PATRICIA",
+    "Proyecto/Sede_1": "CUCUTA-ADMON",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 60300528,
+    "NOMBRES Y APELLIDOS": "RODRIGUEZ QUINTERO MARIA ISABEL",
+    "Proyecto/Sede_1": "CUCUTA-ADMON",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 60422514,
+    "NOMBRES Y APELLIDOS": "HERNANDEZ BADILLO NANCY",
+    "Proyecto/Sede_1": "CUCUTA-ADMON",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 77093143,
+    "NOMBRES Y APELLIDOS": "PEREZ RUEDA JENER  ",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 77178452,
+    "NOMBRES Y APELLIDOS": "VILLEGAS OROZCO JUAN CARLOS",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 80190932,
+    "NOMBRES Y APELLIDOS": "LOPEZ PEREZ FRANKLIN ",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 88000030,
+    "NOMBRES Y APELLIDOS": "JOSE MIGUEL CONTRERAS MARIÑO",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 88136925,
+    "NOMBRES Y APELLIDOS": "QUESADA SERRATO JULIO CESAR",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 88140685,
+    "NOMBRES Y APELLIDOS": "YIVER  LOBO NAVARRO",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "TIBU",
+    "N° de cédula": 88176238,
+    "NOMBRES Y APELLIDOS": "CARDONA AREVALO IDULFO ",
+    "Proyecto/Sede_1": "TIBU",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU"
+  },
+  {
+    "Proyecto/Sede": "TIBU",
+    "N° de cédula": 88176931,
+    "NOMBRES Y APELLIDOS": "PEREZ ORELLANOS JABES ",
+    "Proyecto/Sede_1": "TIBU",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 88178152,
+    "NOMBRES Y APELLIDOS": "GARCIA TORRES NELSON PORFIDIO",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88205529,
+    "NOMBRES Y APELLIDOS": "CELIS AILLON MIGUEL ANGEL",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88207441,
+    "NOMBRES Y APELLIDOS": "GONZALEZ CARRILLO HERMOGENES ",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88216098,
+    "NOMBRES Y APELLIDOS": "ORTIZ LEAL LUIS ERASMO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 88216404,
+    "NOMBRES Y APELLIDOS": "TORRES ROA GIOVANNY ENRIQUE",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88223103,
+    "NOMBRES Y APELLIDOS": "TORRES SERNA RAMON ANTONIO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88230363,
+    "NOMBRES Y APELLIDOS": "GALAN ROPERO JESUS DANUIL ",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88235253,
+    "NOMBRES Y APELLIDOS": "LUIS GREGORIO VILLASMIL RODRIGUEZ",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 88235263,
+    "NOMBRES Y APELLIDOS": "BAYONA CONTRERAS JEAN CARLOS",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88237749,
+    "NOMBRES Y APELLIDOS": "PATIÑO SAAVEDRA OSCAR EDUARDO",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88241861,
+    "NOMBRES Y APELLIDOS": "TOVAR  ANDRES ALEXANDER ",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 88247516,
+    "NOMBRES Y APELLIDOS": "BAYONA CONTRERAS EDGARDO ",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88251797,
+    "NOMBRES Y APELLIDOS": "MONSALVE JESUS ORLANDO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88253783,
+    "NOMBRES Y APELLIDOS": "MONSALVE ZAMBRANO EDWIN ALEXIS",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 88254365,
+    "NOMBRES Y APELLIDOS": "LAZARO CONDE ADRIAN ",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 88254921,
+    "NOMBRES Y APELLIDOS": "CUBILLOS BLANCO CARLOS ",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 88256186,
+    "NOMBRES Y APELLIDOS": "CARLOS ALBERTO CORREA ESTUPIÑAN",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88256732,
+    "NOMBRES Y APELLIDOS": "CASTELLANOS ARIAS LUVER LISANDRO",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88267932,
+    "NOMBRES Y APELLIDOS": "RAUL ROMERO VALERO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88270569,
+    "NOMBRES Y APELLIDOS": "DUQUE ROA CARLOS ALBERTO",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88270670,
+    "NOMBRES Y APELLIDOS": "DUARTE RUBIO CARLOS FERNANDO",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88271021,
+    "NOMBRES Y APELLIDOS": "GONZALEZ BASTO ALVARO LUIS",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU",
+    "N° de cédula": 88271138,
+    "NOMBRES Y APELLIDOS": "JOSE LUIS CASTILLO BOADA",
+    "Proyecto/Sede_1": "TIBU",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88272487,
+    "NOMBRES Y APELLIDOS": "CRUZ DUARTE JUAN CARLOS",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88273237,
+    "NOMBRES Y APELLIDOS": "MENDOZA PARDO EDGAR YOHEDMAR",
+    "Proyecto/Sede_1": "CUCUTA-CGO",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 88281117,
+    "NOMBRES Y APELLIDOS": "CARRASCAL CONTRERAS EVER JESUS ",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 88282931,
+    "NOMBRES Y APELLIDOS": "PEREZ PEREZ CIRO",
+    "Proyecto/Sede_1": "ADMIN",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 88305819,
+    "NOMBRES Y APELLIDOS": "PEÑA DELGADO BORIS AMIN",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 88308115,
+    "NOMBRES Y APELLIDOS": "RUBIO GALVIS CARLOS LUIS",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1003175012,
+    "NOMBRES Y APELLIDOS": "ORTIZ BERMUDEZ HERMES JESUS",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1003205368,
+    "NOMBRES Y APELLIDOS": "ALEXIS JAIMES CASTILLO",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1004795107,
+    "NOMBRES Y APELLIDOS": "VERA GARCIA CARLOS JAVIER ",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1004805635,
+    "NOMBRES Y APELLIDOS": "HERNANDEZ AREVALO ANDRES DAVID",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1004845383,
+    "NOMBRES Y APELLIDOS": "ORTEGA ORTIZ JULIETH NATALIA",
+    "Proyecto/Sede_1": "CUCUTA-ADMON",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1004862354,
+    "NOMBRES Y APELLIDOS": "CASTRO ROBAYO JOSE DAVID",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1004862676,
+    "NOMBRES Y APELLIDOS": "FELIZOLA OVALLES FAUSTINO",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1004877517,
+    "NOMBRES Y APELLIDOS": "JIMENEZ FUENTES RICARDO ARLEY",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1004912652,
+    "NOMBRES Y APELLIDOS": "CAMARGO GOMEZ KEWIN JESUS",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1004926578,
+    "NOMBRES Y APELLIDOS": "CARREÑO FLOREZ HEUZ STEVEN",
+    "Proyecto/Sede_1": "CUCUTA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1005030165,
+    "NOMBRES Y APELLIDOS": "FLORES BASTO ANDERSON STIVEN",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU",
+    "N° de cédula": 1005046890,
+    "NOMBRES Y APELLIDOS": "ORTEGA ROJAS ROBINSON DANIEL",
+    "Proyecto/Sede_1": "TIBU",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1005047655,
+    "NOMBRES Y APELLIDOS": "GALVAN RAMIREZ WILLIAM JAIR",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1005065863,
+    "NOMBRES Y APELLIDOS": "CAMPEROS VARGAS JESUS DAVID",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1007305865,
+    "NOMBRES Y APELLIDOS": "PEREZ MONTAÑEZ EDGAR",
+    "Proyecto/Sede_1": "CUCUTA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1007340640,
+    "NOMBRES Y APELLIDOS": "YEPES REGALADO JEREMIAS",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1007367650,
+    "NOMBRES Y APELLIDOS": "JORGE DAVID NARVAEZ CUETO ",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1007912626,
+    "NOMBRES Y APELLIDOS": "ORTIZ PAEZ JOSE ALFREDO",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1007930060,
+    "NOMBRES Y APELLIDOS": "EDWUAR ALEXIS FLOREZ RODRIGUEZ",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1010078696,
+    "NOMBRES Y APELLIDOS": "CLAVIJO PEREZ FREIMAN ",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1031173032,
+    "NOMBRES Y APELLIDOS": "BOHORQUEZ GONZALEZ DANILO",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1045024334,
+    "NOMBRES Y APELLIDOS": "WILLIAM ANDRES RIVERA SALAZAR",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1048557055,
+    "NOMBRES Y APELLIDOS": "PEDRO ANTONIO  HERRERA HERNANDEZ",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1064836458,
+    "NOMBRES Y APELLIDOS": "EVER VEGA BLANCO",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1064838015,
+    "NOMBRES Y APELLIDOS": "VEGA BLANCO JONATHAN",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1064839236,
+    "NOMBRES Y APELLIDOS": "CARRASCAL CONTRERAS ELKIN FABIAN ",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1064840199,
+    "NOMBRES Y APELLIDOS": "GARCIA JULIO HAROLD JOSE ",
+    "Proyecto/Sede_1": "AGUACHICA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1064841070,
+    "NOMBRES Y APELLIDOS": "MELO SEPULVEDA ANGEL ALEXANDER",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1064841699,
+    "NOMBRES Y APELLIDOS": "NORIEGA DUARTE CRISTIAN LEONARDO ",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1064841741,
+    "NOMBRES Y APELLIDOS": "BOTELLO CARVAJALINO  FABIAN LEONEL",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1064841850,
+    "NOMBRES Y APELLIDOS": "SANCHEZ PEREZ BRAYAN",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1064842160,
+    "NOMBRES Y APELLIDOS": "SANCHEZ GOMEZ CARLOS ALIRIO",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065868668,
+    "NOMBRES Y APELLIDOS": "BAYONA GONGORA DAGOBERTO ",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065873125,
+    "NOMBRES Y APELLIDOS": "GUTIERREZ RANGEL RUBEL ANGEL",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065874827,
+    "NOMBRES Y APELLIDOS": "PACHECO CARVAJALINO KAREN PAOLA",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065880060,
+    "NOMBRES Y APELLIDOS": "ALBEIRO  JULIO RANGEL",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065889225,
+    "NOMBRES Y APELLIDOS": "BUELVAS AMARIS FABIAN ALONSO",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065890127,
+    "NOMBRES Y APELLIDOS": "BOHORQUEZ ROA JHAWI MAURICIO ",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065890671,
+    "NOMBRES Y APELLIDOS": "GUTIERREZ RANGEL FABIO ALEXIS",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065890868,
+    "NOMBRES Y APELLIDOS": "SAUL FERNANDO TORRES GALEZO",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065892861,
+    "NOMBRES Y APELLIDOS": "PIZARRO NAVARRO JORGE LUIS",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065893182,
+    "NOMBRES Y APELLIDOS": "JESUS ALBERTO PEÑA ASCANIO",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065893510,
+    "NOMBRES Y APELLIDOS": "GILBER PACHECO JULIO",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065899171,
+    "NOMBRES Y APELLIDOS": "JESUS LEONARDO CARDOZO SUAREZ",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065904005,
+    "NOMBRES Y APELLIDOS": "VEGA GOMEZ ALBEIRO",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065910419,
+    "NOMBRES Y APELLIDOS": "ALFONSO MANOSALVA JAIDER ",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065915658,
+    "NOMBRES Y APELLIDOS": "QUIN RIOS JONNATHAN ANDRES",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1065917709,
+    "NOMBRES Y APELLIDOS": "ARIZA DE LA HOZ JHORDAN NICOLAS",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1090174318,
+    "NOMBRES Y APELLIDOS": "GARCIA VERA LEDYD YESID",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090176155,
+    "NOMBRES Y APELLIDOS": "DANNY RICARDO MUÑOZ VILLAMIZAR",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1090176882,
+    "NOMBRES Y APELLIDOS": "JAVIER ALDAIR OCHOA MENDOZA",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1090177133,
+    "NOMBRES Y APELLIDOS": "ANTELIZ BRAND RICARDO SEBASTIAN",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1090177402,
+    "NOMBRES Y APELLIDOS": "JULIAN MAURICIO  ESCALANTE BRAND",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1090178383,
+    "NOMBRES Y APELLIDOS": "JUAN DAVID VERA GARCIA",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090363404,
+    "NOMBRES Y APELLIDOS": "MONTAÑEZ ROJAS ELIANA PATRICIA",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090371140,
+    "NOMBRES Y APELLIDOS": "RODRIGUEZ ARAQUE JORGE LUIS",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 1090376407,
+    "NOMBRES Y APELLIDOS": "LOPEZ RIVEROS CRISTIAN ANDRES",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090379569,
+    "NOMBRES Y APELLIDOS": "JAIMES JAIMES EDSON ",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090381554,
+    "NOMBRES Y APELLIDOS": "MARTINEZ MANDON  ROBERTO",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU",
+    "N° de cédula": 1090385811,
+    "NOMBRES Y APELLIDOS": "JULIO HERNANDEZ ALEXANDER",
+    "Proyecto/Sede_1": "TIBU",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090387181,
+    "NOMBRES Y APELLIDOS": "VERGARA CONDE ALBER DANIEL",
+    "Proyecto/Sede_1": "CUCUTA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090391002,
+    "NOMBRES Y APELLIDOS": "MEDINA SAAVEDRA DIEGO ANDRES",
+    "Proyecto/Sede_1": "CUCUTA-ADMON",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090393296,
+    "NOMBRES Y APELLIDOS": "TORRES ANGARITA ISMAEL FRANCISCO",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090395283,
+    "NOMBRES Y APELLIDOS": "SUAREZ CABEZA MARCOS FIDEL",
+    "Proyecto/Sede_1": "CUCUTA-ADMON",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090396114,
+    "NOMBRES Y APELLIDOS": "CRUZ PEREZ CARLOS LEONARDO",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090397246,
+    "NOMBRES Y APELLIDOS": "ROLON GOMEZ JESUS ALBERTO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090399933,
+    "NOMBRES Y APELLIDOS": "IVAN DARIO ALBA ORTIZ",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1090404495,
+    "NOMBRES Y APELLIDOS": "TRUJILLO CONTRERAS EUDIN GIOVANNI",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090408057,
+    "NOMBRES Y APELLIDOS": "JENNY ANDREINA GONZALEZ BASTO",
+    "Proyecto/Sede_1": "CUCUTA-SSTA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090410612,
+    "NOMBRES Y APELLIDOS": "ESTUPIÑAN ESTEBAN JONATHAN ALEXANDER",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090415914,
+    "NOMBRES Y APELLIDOS": "MARQUEZ VALENCIA CARLOS DAVID",
+    "Proyecto/Sede_1": "CUCUTA-CGO",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090416720,
+    "NOMBRES Y APELLIDOS": "FLOREZ DIAZ EDWIN DAVID ",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 1090426589,
+    "NOMBRES Y APELLIDOS": "DURAN OROSTEGUI JEAN LEANDRO",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090427161,
+    "NOMBRES Y APELLIDOS": "DIANA CAROLINA GUERRERO CARRILLO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 1090428508,
+    "NOMBRES Y APELLIDOS": "MANUEL ENRIQUE OSORIO INFANTE",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090436849,
+    "NOMBRES Y APELLIDOS": "GARCIA CONTRERAS CESAR EDUARDO",
+    "Proyecto/Sede_1": "CUCUTA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090437748,
+    "NOMBRES Y APELLIDOS": "URQUIJO CRUZ JESUS EDILSO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090441624,
+    "NOMBRES Y APELLIDOS": "JOSE ANTONIO RODRIGUEZ ROPERO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090441745,
+    "NOMBRES Y APELLIDOS": "AGUAS SOTO ALBERTO JOSE",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090442283,
+    "NOMBRES Y APELLIDOS": "JOSE ARMANDO SEMPRUM JACOME",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090443021,
+    "NOMBRES Y APELLIDOS": "MILLER ANDRES LUNA CACERES",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090443414,
+    "NOMBRES Y APELLIDOS": "ORTEGA NAVARRO OSMEL",
+    "Proyecto/Sede_1": "CUCUTA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090447659,
+    "NOMBRES Y APELLIDOS": "TRIANA CARDENAS LUIS MIGUEL",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090448117,
+    "NOMBRES Y APELLIDOS": "JONATHAN JAVIER MURILLO BRICEÑO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090454145,
+    "NOMBRES Y APELLIDOS": "PAEZ RINCON DIEGO ANDRES",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1090455667,
+    "NOMBRES Y APELLIDOS": "YAÑEZ CARDENAS YAIR ORLANDO",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 1090461699,
+    "NOMBRES Y APELLIDOS": "HERNANDEZ CARDENAS JESUS REINALDO",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 1090462276,
+    "NOMBRES Y APELLIDOS": "RODRIGUEZ CELIS OSCAR JESUS",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090464265,
+    "NOMBRES Y APELLIDOS": "JEISON ALEXANDER OÑATE BRIÑEZ",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090464727,
+    "NOMBRES Y APELLIDOS": "JOHAN ORLANDO FLOREZ QUINTERO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090465054,
+    "NOMBRES Y APELLIDOS": "YEFRYT ALONSO SILVA CONTRERAS",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1090465860,
+    "NOMBRES Y APELLIDOS": "MARTINEZ URIBE ALEXIS",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090472049,
+    "NOMBRES Y APELLIDOS": "KAREN LORENA PICON SANCHEZ",
+    "Proyecto/Sede_1": "CUCUTA-ADMON",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090477078,
+    "NOMBRES Y APELLIDOS": "FORERO MORENO JOSE LUIS",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090480593,
+    "NOMBRES Y APELLIDOS": "VEGA CASTRO EDGAR",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1090481913,
+    "NOMBRES Y APELLIDOS": "JHON JHEINER GOMEZ CARVAJAL",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090482253,
+    "NOMBRES Y APELLIDOS": "JOSE MIGUEL PARRA AREVALO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090482291,
+    "NOMBRES Y APELLIDOS": "TOLOZA TELLO MIGUEL ANGEL ",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090485967,
+    "NOMBRES Y APELLIDOS": "MENDOZA CASTRO JORMAN DAMIAN",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090486586,
+    "NOMBRES Y APELLIDOS": "CARRASCAL CARDENAS EDINSON GEOVANNY",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090488099,
+    "NOMBRES Y APELLIDOS": "EDWARD GIOVANNI VILLAMIZAR BECERRA",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090491573,
+    "NOMBRES Y APELLIDOS": "CRISTIAN CAMILO PEÑARANDA SANCHEZ",
+    "Proyecto/Sede_1": "CUCUTA-CGO",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 1090492296,
+    "NOMBRES Y APELLIDOS": "CAMARGO COBOS JAIRO JOSE ",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090493472,
+    "NOMBRES Y APELLIDOS": "GERSON MARTIN VARGAS ORTEGA",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090497271,
+    "NOMBRES Y APELLIDOS": "DIEGO ANDRES MENDEZ SIERRA",
+    "Proyecto/Sede_1": "CUCUTA-CGO",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090497377,
+    "NOMBRES Y APELLIDOS": "PEÑARANDA OMEARA IVAN ANDRES ",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090499239,
+    "NOMBRES Y APELLIDOS": "PEREZ AREVALO DIEGO ALEXANDER",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090500809,
+    "NOMBRES Y APELLIDOS": "NELSON SNEYDER CLAVIJO SANCHEZ",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090506213,
+    "NOMBRES Y APELLIDOS": "BULLA SUAREZ DANNI FERNANDO",
+    "Proyecto/Sede_1": "CUCUTA-DRASTICOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090515805,
+    "NOMBRES Y APELLIDOS": "GALLO SILVA ANDRES FELIPE",
+    "Proyecto/Sede_1": "CUCUTA-CGO",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 1090523832,
+    "NOMBRES Y APELLIDOS": "DURAN MARTINEZ ANDERSON",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090534018,
+    "NOMBRES Y APELLIDOS": "CARLOS EDUARDO CARRILLO SUAREZ",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090539792,
+    "NOMBRES Y APELLIDOS": "JEFFERSONTH ALIRIO RAMIREZ BECERRA",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 1090962338,
+    "NOMBRES Y APELLIDOS": "VICTOR ADOLFO PEÑARANDA JIMENEZ",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 1090962457,
+    "NOMBRES Y APELLIDOS": "SEPULVEDA PEDRAZA ISRAEL ",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1090983561,
+    "NOMBRES Y APELLIDOS": "RODRIGUEZ RIOS SOLANGEL ",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1090986337,
+    "NOMBRES Y APELLIDOS": "QUINTERO ARENAS EDWIN JAVIER",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1090986910,
+    "NOMBRES Y APELLIDOS": "MENESES MENESES EDWARD",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1090990628,
+    "NOMBRES Y APELLIDOS": "NORIEGA PICON JEFERSON DAMIAN",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1090990999,
+    "NOMBRES Y APELLIDOS": "PACHECO GARCIA ANDRES",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091162200,
+    "NOMBRES Y APELLIDOS": "RINCON ALVAREZ  DIEGO ARMANDO ",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091163150,
+    "NOMBRES Y APELLIDOS": "ESNEIDER EDUARDO CAMARGO SERRANO",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 1091182675,
+    "NOMBRES Y APELLIDOS": "RODRIGUEZ SANCHEZ WILSON",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091654267,
+    "NOMBRES Y APELLIDOS": "DURAN QUINTERO JORGE ALEXANDER",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091654268,
+    "NOMBRES Y APELLIDOS": "PEÑARANDA ARIAS CRISTHIAN FABRIANY",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091654744,
+    "NOMBRES Y APELLIDOS": "AREVALO LOPEZ ANDREY ",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091654824,
+    "NOMBRES Y APELLIDOS": "PEREZ SANCHEZ JOSE LUIS",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091656757,
+    "NOMBRES Y APELLIDOS": "CONTRERAS PRADO JAROL YASED",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091658436,
+    "NOMBRES Y APELLIDOS": "MARTINEZ PEREZ ALEXANDER",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091660738,
+    "NOMBRES Y APELLIDOS": "ACOSTA MACHADO BREIDER ",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091662161,
+    "NOMBRES Y APELLIDOS": "CARRASCAL LAZARO DIEGO",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091662247,
+    "NOMBRES Y APELLIDOS": "ROPERO SARABIA JHON ALEXANDER",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091664229,
+    "NOMBRES Y APELLIDOS": "ARENAS BALLESTEROS ESNEIDER YENIETT",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091666397,
+    "NOMBRES Y APELLIDOS": "QUINTERO SANCHEZ DEIMER",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091668029,
+    "NOMBRES Y APELLIDOS": "HAROL LEANDRO PEÑARANDA ARIAS",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091669647,
+    "NOMBRES Y APELLIDOS": "CONTRERAS CARREÑO YEISON",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091675033,
+    "NOMBRES Y APELLIDOS": "HENRY ALEJANDRO BAYONA AMAYA",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091675154,
+    "NOMBRES Y APELLIDOS": "DARIEN DAYAN VELASQUEZ RUEDAS",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091675342,
+    "NOMBRES Y APELLIDOS": "CARLOS ANDRES CRIADO QUINTERO",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091675831,
+    "NOMBRES Y APELLIDOS": "BALLESTEROS NAVARRO ANDRES FELIPE ",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1091681756,
+    "NOMBRES Y APELLIDOS": "JOSE ARMANDO BARBOSA ANGARITA",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1092344042,
+    "NOMBRES Y APELLIDOS": "FLOREZ RANGEL DIEGO ANDRES",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1092350301,
+    "NOMBRES Y APELLIDOS": "GALLO BASTOS EVELYN XIOMARA",
+    "Proyecto/Sede_1": "CUCUTA-ADMON",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1092352956,
+    "NOMBRES Y APELLIDOS": "ORTIZ CORREA ANDERSON",
+    "Proyecto/Sede_1": "CUCUTA-SSTA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1092354030,
+    "NOMBRES Y APELLIDOS": "YORMAN FERNEY ANDRADE TARAZONA",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1092364918,
+    "NOMBRES Y APELLIDOS": "GRISALES AILLON JHON ALEXANDER",
+    "Proyecto/Sede_1": "CUCUTA-CGO",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1093734648,
+    "NOMBRES Y APELLIDOS": "YHOJAN ANDREY CLARO ASCANIO",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1093736192,
+    "NOMBRES Y APELLIDOS": "SIERRA JAIMES MIRYAM JOHANA",
+    "Proyecto/Sede_1": "CUCUTA-SSTA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1093757712,
+    "NOMBRES Y APELLIDOS": "ANDRES GONZALO VALENCIA CONTRERAS",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1093774369,
+    "NOMBRES Y APELLIDOS": "ACEVEDO ORTIZ CESAR AUGUSTO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1093778023,
+    "NOMBRES Y APELLIDOS": "SUAREZ HORMAZA EDWIN FARUT",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1093782124,
+    "NOMBRES Y APELLIDOS": "SANTAMARIA MALDONADO EDINSON FABIAN",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1093782329,
+    "NOMBRES Y APELLIDOS": "CARRILLO EPALZA CRISTIAN MIGUEL  ",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1093783564,
+    "NOMBRES Y APELLIDOS": "POLANCO PEREZ ELMIDES JUNIOR",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1093783648,
+    "NOMBRES Y APELLIDOS": "YURLEY LUNA FLOREZ",
+    "Proyecto/Sede_1": "CUCUTA-SSTA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1093784091,
+    "NOMBRES Y APELLIDOS": "ALADINO CRUZ FREDDY FABIAN",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1093786382,
+    "NOMBRES Y APELLIDOS": "ALVAREZ ESTUPIÑAN ELIECER",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1093786936,
+    "NOMBRES Y APELLIDOS": "DIEGO JESUS ESLAVA PINO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1093791076,
+    "NOMBRES Y APELLIDOS": "SANCHEZ JAIMES HERLEX DUVAN ",
+    "Proyecto/Sede_1": "CUCUTA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU",
+    "N° de cédula": 1093905817,
+    "NOMBRES Y APELLIDOS": "ORTIZ MENDOZA LUIS ALBERTO",
+    "Proyecto/Sede_1": "TIBU",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU"
+  },
+  {
+    "Proyecto/Sede": "TIBU",
+    "N° de cédula": 1093906629,
+    "NOMBRES Y APELLIDOS": "ORTIZ PEÑARANDA ELKLIN",
+    "Proyecto/Sede_1": "TIBU",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU"
+  },
+  {
+    "Proyecto/Sede": "TIBU",
+    "N° de cédula": 1093918036,
+    "NOMBRES Y APELLIDOS": "SANTIAGO PARDO JEAN CARLOS",
+    "Proyecto/Sede_1": "TIBU",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU"
+  },
+  {
+    "Proyecto/Sede": "TIBU",
+    "N° de cédula": 1093919747,
+    "NOMBRES Y APELLIDOS": "ANDERSON YESID MONCADA HERRERA",
+    "Proyecto/Sede_1": "TIBU",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1094163146,
+    "NOMBRES Y APELLIDOS": "SANABRIA ESTUPIÑAN EDWIN ISAI",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1094165347,
+    "NOMBRES Y APELLIDOS": "ARDILA DURAN ELISAIR",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1094165377,
+    "NOMBRES Y APELLIDOS": "PABON LOPEZ  YOSSIMAR STIVENSON",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1094167994,
+    "NOMBRES Y APELLIDOS": "JESUS ORLANDO CACERES JAIMES",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU",
+    "N° de cédula": 1094265680,
+    "NOMBRES Y APELLIDOS": "CASADIEGOS DURAN YECID ENRIQUE",
+    "Proyecto/Sede_1": "TIBU",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1094282934,
+    "NOMBRES Y APELLIDOS": "PABON MOLINA ZAYED RAPHAEL CAMILO",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1094322716,
+    "NOMBRES Y APELLIDOS": "PEREZ CLAVIJO YORMAN ANDREY",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1094346951,
+    "NOMBRES Y APELLIDOS": "EDWIN PORFIRIO LUNA OLIVOS",
+    "Proyecto/Sede_1": "AGUACHICA-DRASTICOS",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1094369070,
+    "NOMBRES Y APELLIDOS": "PEÑALOZA GONZALEZ ELVER DAVID",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1094369225,
+    "NOMBRES Y APELLIDOS": "NESTOR JULIAN MORENO ANGARITA",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1094370346,
+    "NOMBRES Y APELLIDOS": "PEÑA GRANADOS ELKIN LEONARDO",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1094370347,
+    "NOMBRES Y APELLIDOS": "BOHORQUEZ GONZALEZ ALLEX DANTEE",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 1094426851,
+    "NOMBRES Y APELLIDOS": "ANGARITA SANCHEZ JUAN CARLOS",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1094427423,
+    "NOMBRES Y APELLIDOS": "CONTRERAS SALCEDO BRALLAM ARLEY",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1094507049,
+    "NOMBRES Y APELLIDOS": "CONTRERAS CALDERON SAID ALEXANDER",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1094576161,
+    "NOMBRES Y APELLIDOS": "LOPEZ TARAZONA JESUS ALFREDO",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": 1094576306,
+    "NOMBRES Y APELLIDOS": "AREVALO GOMEZ YOSIMAR ",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1094662916,
+    "NOMBRES Y APELLIDOS": "DAVILA VARGAS HOBER ALEJANDRO",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": 1098666898,
+    "NOMBRES Y APELLIDOS": "WILMER ALONSO CORTES PABON",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": 1098766085,
+    "NOMBRES Y APELLIDOS": "CAMPEROS VARGAS JHON ALEXANDER",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1116797758,
+    "NOMBRES Y APELLIDOS": "CORAL FLOREZ JHOSER ANDRES",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1116801169,
+    "NOMBRES Y APELLIDOS": "CORAL FLOREZ EDUAR DAVID",
+    "Proyecto/Sede_1": "CUCUTA-SCR",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1127045761,
+    "NOMBRES Y APELLIDOS": "DANIELA ESCALANTE CORREDOR",
+    "Proyecto/Sede_1": "CUCUTA-ADMON",
+    "estado": "Inactivo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1127655598,
+    "NOMBRES Y APELLIDOS": "NAVARRO ESCALANTE OMAR JOSE",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "TIBU-PUEBLOS",
+    "N° de cédula": 1193030869,
+    "NOMBRES Y APELLIDOS": "BALAGUER CHACON YENSYN",
+    "Proyecto/Sede_1": "TIBU-PUEBLOS",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "TIBU-PUEBLOS"
+  },
+  {
+    "Proyecto/Sede": "ALMACEN",
+    "N° de cédula": "1000NC",
+    "NOMBRES Y APELLIDOS": "ALMACEN NC",
+    "Proyecto/Sede_1": "ALMACEN",
+    "estado": "Activo",
+    "tipo bodega": "Bodega",
+    "Proyecto/Sede_2": "ALMACEN"
+  },
+  {
+    "Proyecto/Sede": "PAMPLONA",
+    "N° de cédula": "2000NC",
+    "NOMBRES Y APELLIDOS": "PAMPLONA NC",
+    "Proyecto/Sede_1": "PAMPLONA",
+    "estado": "Activo",
+    "tipo bodega": "Bodega",
+    "Proyecto/Sede_2": "PAMPLONA"
+  },
+  {
+    "Proyecto/Sede": "OCAÑA",
+    "N° de cédula": "3000NC",
+    "NOMBRES Y APELLIDOS": "OCAÑA NC",
+    "Proyecto/Sede_1": "OCAÑA",
+    "estado": "Activo",
+    "tipo bodega": "Bodega",
+    "Proyecto/Sede_2": "OCAÑA"
+  },
+  {
+    "Proyecto/Sede": "TIBU",
+    "N° de cédula": "4000NC",
+    "NOMBRES Y APELLIDOS": "TIBU NC",
+    "Proyecto/Sede_1": "TIBU",
+    "estado": "Activo",
+    "tipo bodega": "Bodega",
+    "Proyecto/Sede_2": "TIBU"
+  },
+  {
+    "Proyecto/Sede": "AGUACHICA",
+    "N° de cédula": "5000NC",
+    "NOMBRES Y APELLIDOS": "AGUACHICA NC",
+    "Proyecto/Sede_1": "AGUACHICA",
+    "estado": "Activo",
+    "tipo bodega": "Bodega",
+    "Proyecto/Sede_2": "AGUACHICA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090525371,
+    "NOMBRES Y APELLIDOS": "ALVAREZ LIZCANO YESID ALFONSO",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1114308792,
+    "NOMBRES Y APELLIDOS": "BOTELLO CORONEL YEISON ENRIQUE",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1093787516,
+    "NOMBRES Y APELLIDOS": "CORDOBA HERNANDEZ LESTY MARIA",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1090516561,
+    "NOMBRES Y APELLIDOS": "CORRALES PABON DEMIAN YEFREY",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1018483295,
+    "NOMBRES Y APELLIDOS": "GAITÁN LÁZARO MIGUEL DAVID",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1092940329,
+    "NOMBRES Y APELLIDOS": "WILCHES GONZALEZ JUNIOR",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  },
+  {
+    "Proyecto/Sede": "CUCUTA",
+    "N° de cédula": 1003202945,
+    "NOMBRES Y APELLIDOS": "YEPES ACOSTA CARLOS JOSE",
+    "Proyecto/Sede_1": "CUCUTA-FACTURACION",
+    "estado": "Activo",
+    "tipo bodega": "Sub-bodega",
+    "Proyecto/Sede_2": "CUCUTA"
+  }
+]

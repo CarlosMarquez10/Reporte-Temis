@@ -1,0 +1,69 @@
+{
+  "Nombre": "DAVILA VARGAS HOBER ALEJANDRO",
+  "Cedula": 1094662916,
+  "Rol": "Auxiliar-Supervisor",
+  "ProyectoSede": "PAMPLONA",
+  "Proceso": "PAMPLONA",
+  "CantidadOperativa": 24,
+  "Cantidad_Inspecciones": 60,
+  "Cantidad_InpsPendiente": 60,
+  "Cantidad_NoConformidades": 0,
+  "OperarioConNocomformidad": [],
+  "Cantidad_Atentos": 0,
+  "OperarioConAtentos": [],
+  "Cantidad_Inpeccionados": 0,
+  "NombreInsPeccionados": [],
+  "Nombre_PtePorInspecciones": [
+    {
+      "Nombre": "BOHORQUEZ GONZALEZ DANILO",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "GARCIA VERA LEDYD YESID",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "MARTINEZ URIBE ALEXIS",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "ALVAREZ ESTUPIÑAN ELIECER",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "PABON MOLINA ZAYED RAPHAEL CAMILO",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "NESTOR JULIAN MORENO ANGARITA",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "PEÑA GRANADOS ELKIN LEONARDO",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "CONTRERAS CALDERON SAID ALEXANDER",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "DAVILA VARGAS HOBER ALEJANDRO",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "CAMPEROS VARGAS JHON ALEXANDER",
+      "Proceso": "PAMPLONA"
+    }
+  ],
+  "Cantidad_PtePorInspecciones": 10,
+  "CantidaInspAnterior": 0,
+  "NombreInspAnterior": [],
+  "CantidadInspPosterior": 0,
+  "NombreInspPosterior": [],
+  "MotivoDeInspeccion": [],
+  "InspPorHora": {
+    "TipoDocumento": "",
+    "CantidadTipoDocumento": 0,
+    "HoraTipoDocumento": ""
+  }
+}

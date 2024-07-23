@@ -1,0 +1,170 @@
+{
+    "88271021": {
+        "Nombre": "ALVARO LUIS GONZALEZ BASTO",
+        "Rol": "Supervisor",
+        "Cargo": "Tecnologo",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "CUCUTA",
+        "Proceso": "CUCUTA-SCR"
+    },
+    "1116801169": {
+        "Nombre": "CORAL FLOREZ EDUAR DAVID",
+        "Rol": "Auxiliar-Supervisor",
+        "Cargo": "Operartivo-Aux",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "CUCUTA",
+        "Proceso": "CUCUTA-SCR"
+    },
+    "1090410612": {
+        "Nombre": "ESTUPIÑAN ESTEBAN JONATHAN ALEXANDER",
+        "Rol": "Supervisor",
+        "Cargo": "Tecnologo",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "CUCUTA",
+        "Proceso": "CUCUTA-FACTURACION"
+    },
+    "88241861": {
+        "Nombre": "TOVAR  ANDRES ALEXANDER",
+        "Rol": "Auxiliar-Supervisor",
+        "Cargo": "Operartivo-Aux",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "CUCUTA",
+        "Proceso": "CUCUTA-FACTURACION"
+    },
+    "5401549": {
+        "Nombre": "GALAN ROPERO FRANCISCO EMANUEL",
+        "Rol": "Auxiliar-Supervisor",
+        "Cargo": "Operartivo-Aux",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "CUCUTA",
+        "Proceso": "CUCUTA-DRASTICOS"
+    },
+    "1090379569": {
+        "Nombre": "JAIMES JAIMES EDSON ",
+        "Rol": "Supervisor",
+        "Cargo": "Tecnologo",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "CUCUTA",
+        "Proceso": "CUCUTA-DRASTICOS"
+    },
+    "88247516": {
+        "Nombre": "BAYONA CONTRERAS EDGARDO ",
+        "Rol": "Supervisor",
+        "Cargo": "Tecnologo",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "TIBU-PUEBLOS",
+        "Proceso": "TIBU-PUEBLOS"
+    },
+    "1090404495": {
+        "Nombre": "TRUJILLO CONTRERAS EUDIN GIOVANNI",
+        "Rol": "Supervisor",
+        "Cargo": "Tecnologo",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "TIBU",
+        "Proceso": "TIBU"
+    },
+    "13473944": {
+        "Nombre": "RODRIGUEZ RAMIREZ TULIO EDGAR",
+        "Cargo": "Operartivo-Aux",
+        "Rol": "Auxiliar-Supervisor",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "CUCUTA",
+        "Proceso": "TIBU-PUEBLOS"
+    },
+    "1090465860": {
+        "Nombre": "MARTINEZ URIBE ALEXIS",
+        "Rol": "Supervisor",
+        "Cargo": "Tecnologo",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "PAMPLONA",
+        "Proceso": "PAMPLONA"
+    },
+    "1094662916": {
+        "Nombre": "DAVILA VARGAS HOBER ALEJANDRO",
+        "Cargo": "Operartivo-Aux",
+        "Rol": "Auxiliar-Supervisor",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "PAMPLONA",
+        "Proceso": "PAMPLONA"
+    },
+    "1090983561": {
+        "Nombre": "RODRIGUEZ RIOS SOLANGEL ",
+        "Rol": "Supervisor",
+        "Cargo": "Tecnologo",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "OCAÑA",
+        "Proceso": "OCAÑA"
+    },
+    "1091654268": {
+        "Nombre": "PEÑARANDA ARIAS CRISTHIAN FABRIANY",
+        "Rol": "Auxiliar-Supervisor",
+        "Cargo": "Operartivo-Aux",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "OCAÑA",
+        "Proceso": "OCAÑA"
+    },
+    "18926009": {
+        "Nombre": "NOVOA BALLESTEROS JOSE ALEXANDER",
+        "Rol": "Supervisor",
+        "Cargo": "Tecnologo",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "AGUACHICA",
+        "Proceso": "AGUACHICA"
+    },
+    "1064841699": {
+        "Nombre": "NORIEGA DUARTE CRISTIAN LEONARDO ",
+        "Rol": "Auxiliar-Supervisor",
+        "Cargo": "Operartivo-Aux",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "AGUACHICA",
+        "Proceso": "AGUACHICA"
+    },
+    "1093736192": {
+        "Nombre": "SIERRA JAIMES MIRYAM JOHANA",
+        "Rol": "ProfesionalSyso",
+        "Cargo": "ProfesionalSyso",
+        "Inpecciones-semanal": "10",
+        "Proyecto/Sede": "CUCUTA",
+        "Proceso": "CUCUTA-SSTA"
+    },
+    "1092352956": {
+        "Nombre": "ORTIZ CORREA ANDERSON",
+        "Rol": "TecnologoSyso",
+        "Cargo": "TecnologoSyso",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "CUCUTA",
+        "Proceso": "CUCUTA-SSTA"
+    },
+    "1065874827": {
+        "Nombre": "PACHECO CARVAJALINO KAREN PAOLA",
+        "Rol": "TecnologoSyso",
+        "Cargo": "TecnologoSyso",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "AGUACHICA",
+        "Proceso": "AGUACHICA-SSTA"
+    },
+    "60300528": {
+        "Nombre": "RODRIGUEZ QUINTERO MARIA ISABEL",
+        "Rol": "Auxiliar-Supervisor",
+        "Cargo": "Operartivo-Aux",
+        "Inpecciones-semanal": "15",
+        "Proyecto/Sede": "AGUACHICA",
+        "Proceso": "CUCUTA-ADMON"
+    },
+    "1090391002": {
+        "Nombre": "MEDINA SAAVEDRA DIEGO ANDRES",
+        "Rol": "Coordinador",
+        "Cargo": "Coordinador",
+        "Inpecciones-semanal": "5",
+        "Proyecto/Sede": "CUCUTA",
+        "Proceso": "CUCUTA-ADMON"
+    },
+    "88273237": {
+        "Nombre": "MENDOZA PARDO EDGAR YOHEDMAR",
+        "Rol": "Coordinador",
+        "Cargo": "Coordinador",
+        "Inpecciones-semanal": "5",
+        "Proyecto/Sede": "CUCUTA",
+        "Proceso": "CUCUTA-ADMON"
+    }
+}

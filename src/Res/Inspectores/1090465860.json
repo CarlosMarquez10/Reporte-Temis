@@ -1,0 +1,450 @@
+{
+  "Nombre": "MARTINEZ URIBE ALEXIS",
+  "Cedula": 1090465860,
+  "Rol": "Supervisor",
+  "ProyectoSede": "PAMPLONA",
+  "Proceso": "PAMPLONA",
+  "CantidadOperativa": 24,
+  "Cantidad_Inspecciones": 60,
+  "Cantidad_InpsPendiente": 33,
+  "Cantidad_NoConformidades": 0,
+  "OperarioConNocomformidad": [],
+  "Cantidad_Atentos": 0,
+  "OperarioConAtentos": [],
+  "Cantidad_Inpeccionados": 27,
+  "NombreInsPeccionados": [
+    {
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ"
+    },
+    {
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ"
+    },
+    {
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ"
+    },
+    {
+      "Nombre": "JUAN CARLOS CALDERON MONCADA"
+    },
+    {
+      "Nombre": "JUAN CARLOS CALDERON MONCADA"
+    },
+    {
+      "Nombre": "JUAN CARLOS CALDERON MONCADA"
+    },
+    {
+      "Nombre": "ELVER DAVID PEÑALOZA GONZALEZ"
+    },
+    {
+      "Nombre": "ELVER DAVID PEÑALOZA GONZALEZ"
+    },
+    {
+      "Nombre": "ELVER DAVID PEÑALOZA GONZALEZ"
+    },
+    {
+      "Nombre": "BRALLAM ARLEY CONTRERAS SALCEDO"
+    },
+    {
+      "Nombre": "BRALLAM ARLEY CONTRERAS SALCEDO"
+    },
+    {
+      "Nombre": "BRALLAM ARLEY CONTRERAS SALCEDO"
+    },
+    {
+      "Nombre": "RICARDO SEBASTIA ANTELIZ BRAND"
+    },
+    {
+      "Nombre": "RICARDO SEBASTIA ANTELIZ BRAND"
+    },
+    {
+      "Nombre": "RICARDO SEBASTIA ANTELIZ BRAND"
+    },
+    {
+      "Nombre": "ELVER DAVID PEÑALOZA GONZALEZ"
+    },
+    {
+      "Nombre": "HEYSON FERNEY ARIAS MENESES"
+    },
+    {
+      "Nombre": "BORIS AMIN PEÑA DELGADO"
+    },
+    {
+      "Nombre": "BORIS AMIN PEÑA DELGADO"
+    },
+    {
+      "Nombre": "BORIS AMIN PEÑA DELGADO"
+    },
+    {
+      "Nombre": "BRALLAM ARLEY CONTRERAS SALCEDO"
+    },
+    {
+      "Nombre": "CARLOS JAVIER VERA GARCIA"
+    },
+    {
+      "Nombre": "CARLOS JAVIER VERA GARCIA"
+    },
+    {
+      "Nombre": "CARLOS JAVIER VERA GARCIA"
+    },
+    {
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ"
+    },
+    {
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ"
+    },
+    {
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ"
+    }
+  ],
+  "Nombre_PtePorInspecciones": [
+    {
+      "Nombre": "BOHORQUEZ GONZALEZ DANILO",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "GARCIA VERA LEDYD YESID",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "MARTINEZ URIBE ALEXIS",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "ALVAREZ ESTUPIÑAN ELIECER",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "PABON MOLINA ZAYED RAPHAEL CAMILO",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "NESTOR JULIAN MORENO ANGARITA",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "PEÑA GRANADOS ELKIN LEONARDO",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "CONTRERAS CALDERON SAID ALEXANDER",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "DAVILA VARGAS HOBER ALEJANDRO",
+      "Proceso": "PAMPLONA"
+    },
+    {
+      "Nombre": "CAMPEROS VARGAS JHON ALEXANDER",
+      "Proceso": "PAMPLONA"
+    }
+  ],
+  "Cantidad_PtePorInspecciones": 10,
+  "CantidaInspAnterior": 0,
+  "NombreInspAnterior": [],
+  "CantidadInspPosterior": 27,
+  "NombreInspPosterior": [
+    {
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUAN CARLOS CALDERON MONCADA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUAN CARLOS CALDERON MONCADA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUAN CARLOS CALDERON MONCADA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ELVER DAVID PEÑALOZA GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ELVER DAVID PEÑALOZA GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ELVER DAVID PEÑALOZA GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "BRALLAM ARLEY CONTRERAS SALCEDO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "BRALLAM ARLEY CONTRERAS SALCEDO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "BRALLAM ARLEY CONTRERAS SALCEDO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "RICARDO SEBASTIA ANTELIZ BRAND",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "RICARDO SEBASTIA ANTELIZ BRAND",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "RICARDO SEBASTIA ANTELIZ BRAND",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ELVER DAVID PEÑALOZA GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HEYSON FERNEY ARIAS MENESES",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "BORIS AMIN PEÑA DELGADO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "BORIS AMIN PEÑA DELGADO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "BORIS AMIN PEÑA DELGADO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "BRALLAM ARLEY CONTRERAS SALCEDO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS JAVIER VERA GARCIA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS JAVIER VERA GARCIA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS JAVIER VERA GARCIA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ",
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "MotivoDeInspeccion": [
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ",
+      "FechaInicio": 45477.4284143519,
+      "FechaFinal": 45477.4366782407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ",
+      "FechaInicio": 45477.4368865741,
+      "FechaFinal": 45477.4431134259,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ",
+      "FechaInicio": 45477.4432638889,
+      "FechaFinal": 45477.4484259259,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JUAN CARLOS CALDERON MONCADA",
+      "FechaInicio": 45478.5366898148,
+      "FechaFinal": 45478.5415856481,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JUAN CARLOS CALDERON MONCADA",
+      "FechaInicio": 45478.541712963,
+      "FechaFinal": 45478.5471296296,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "JUAN CARLOS CALDERON MONCADA",
+      "FechaInicio": 45478.5477199074,
+      "FechaFinal": 45478.5532060185,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "ELVER DAVID PEÑALOZA GONZALEZ",
+      "FechaInicio": 45479.3999074074,
+      "FechaFinal": 45479.4053472222,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "ELVER DAVID PEÑALOZA GONZALEZ",
+      "FechaInicio": 45479.405462963,
+      "FechaFinal": 45479.4090856481,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "ELVER DAVID PEÑALOZA GONZALEZ",
+      "FechaInicio": 45479.409212963,
+      "FechaFinal": 45479.4136342593,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "BRALLAM ARLEY CONTRERAS SALCEDO",
+      "FechaInicio": 45480.6619097222,
+      "FechaFinal": 45480.6794791667,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "BRALLAM ARLEY CONTRERAS SALCEDO",
+      "FechaInicio": 45480.6697222222,
+      "FechaFinal": 45480.6768055556,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "BRALLAM ARLEY CONTRERAS SALCEDO",
+      "FechaInicio": 45480.6802893519,
+      "FechaFinal": 45480.6861226852,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "RICARDO SEBASTIA ANTELIZ BRAND",
+      "FechaInicio": 45481.6181365741,
+      "FechaFinal": 45481.6545486111,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "RICARDO SEBASTIA ANTELIZ BRAND",
+      "FechaInicio": 45481.6206134259,
+      "FechaFinal": 45481.6560185185,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "RICARDO SEBASTIA ANTELIZ BRAND",
+      "FechaInicio": 45481.6227777778,
+      "FechaFinal": 45481.6572337963,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "ELVER DAVID PEÑALOZA GONZALEZ",
+      "FechaInicio": 45483.644375,
+      "FechaFinal": 45483.6481944444,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "HEYSON FERNEY ARIAS MENESES",
+      "FechaInicio": 45483.6631134259,
+      "FechaFinal": 45483.6711805556,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "BORIS AMIN PEÑA DELGADO",
+      "FechaInicio": 45486.5157407407,
+      "FechaFinal": 45486.5199421296,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "BORIS AMIN PEÑA DELGADO",
+      "FechaInicio": 45486.5200810185,
+      "FechaFinal": 45486.5241550926,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "BORIS AMIN PEÑA DELGADO",
+      "FechaInicio": 45486.5242824074,
+      "FechaFinal": 45486.5279513889,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "BRALLAM ARLEY CONTRERAS SALCEDO",
+      "FechaInicio": 45486.5667361111,
+      "FechaFinal": 45486.5782638889,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "CARLOS JAVIER VERA GARCIA",
+      "FechaInicio": 45489.4056828704,
+      "FechaFinal": 45489.422974537,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "CARLOS JAVIER VERA GARCIA",
+      "FechaInicio": 45489.40875,
+      "FechaFinal": 45489.4256944444,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "CARLOS JAVIER VERA GARCIA",
+      "FechaInicio": 45489.4116898148,
+      "FechaFinal": 45489.4189351852,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ",
+      "FechaInicio": 45490.5510648148,
+      "FechaFinal": 45490.5558912037,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ",
+      "FechaInicio": 45490.5560300926,
+      "FechaFinal": 45490.5624768519,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "ALLEX DANTEE BOHORQUEZ GONZALEZ",
+      "FechaInicio": 45490.5632060185,
+      "FechaFinal": 45490.5684722222,
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "InspPorHora": {
+    "TipoDocumento": "",
+    "CantidadTipoDocumento": 0,
+    "HoraTipoDocumento": ""
+  }
+}

@@ -35,7 +35,7 @@ export async function HilitacionesReporte() {
     downloadPath: downloadPath,
   });
 
-  await page.goto("https://temis.inmel.co/004/dist/#/login");
+  await page.goto("https://temis.inmel.co/004/dist/#/login", { waitUntil: 'networkidle0' });
 
   // Espera a que los campos de entrada estén disponibles
   await page.waitForSelector("#inputEmail");

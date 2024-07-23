@@ -1,0 +1,846 @@
+{
+  "Nombre": "SIERRA JAIMES MIRYAM JOHANA",
+  "Cedula": 1093736192,
+  "Rol": "ProfesionalSyso",
+  "ProyectoSede": "CUCUTA",
+  "Proceso": "CUCUTA-SSTA",
+  "CantidadOperativa": 2,
+  "Cantidad_Inspecciones": 40,
+  "Cantidad_InpsPendiente": -12,
+  "Cantidad_NoConformidades": 1,
+  "OperarioConNocomformidad": [
+    {
+      "Nombre": "DEMIAN YEFREY CORRALES PABON"
+    }
+  ],
+  "Cantidad_Atentos": 1,
+  "OperarioConAtentos": [
+    {
+      "Nombre": "OMAR JOSE NAVARRO ESCALANTE",
+      "tipoAtento": "01) Condición Insegura",
+      "DescubrirAtento": "Se acerca a vivienda de usuario a realizar la respectiva entrega de la factura al usuario cuando de repente canino sale y agrede contra la parte donde se tienen los recibos, rasguñando la mano",
+      "Observaciones": "Se deja reporte de la trazabilidad con gestión con usuario de medidas Preventivas del canino usuaria atiende las recomendaciones con claridad ",
+      "fecha": 45477.6708680556
+    }
+  ],
+  "Cantidad_Inpeccionados": 51,
+  "NombreInsPeccionados": [
+    {
+      "Nombre": "FREIMAN CLAVIJO PEREZ"
+    },
+    {
+      "Nombre": "DIEGO ANDRES PAEZ RINCON"
+    },
+    {
+      "Nombre": "OMAR JOSE NAVARRO ESCALANTE"
+    },
+    {
+      "Nombre": "MIGUEL ANGEL CELIS AILLON"
+    },
+    {
+      "Nombre": "LESTY MARIA CORDOBA HERNANDEZ"
+    },
+    {
+      "Nombre": "DEMIAN YEFREY CORRALES PABON"
+    },
+    {
+      "Nombre": "JESUS ALBERTO ROLON GOMEZ"
+    },
+    {
+      "Nombre": "YESID ALFONSO ALVAREZ LIZCANO"
+    },
+    {
+      "Nombre": "YEISON ENRIQUE BOTELLO CORONEL"
+    },
+    {
+      "Nombre": "JESUS EDILSO URQUIJO CRUZ"
+    },
+    {
+      "Nombre": "DEMIAN YEFREY CORRALES PABON"
+    },
+    {
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ"
+    },
+    {
+      "Nombre": "ALBER DANIEL VERGARA CONDE"
+    },
+    {
+      "Nombre": "SERGIO MIGUEL LEIVA HERNANDEZ"
+    },
+    {
+      "Nombre": "EDWIN FARUT SUAREZ HORMAZA"
+    },
+    {
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ"
+    },
+    {
+      "Nombre": "CRISTIAN MIGUEL CARRILLO EPALZA"
+    },
+    {
+      "Nombre": "LESTY MARIA CORDOBA HERNANDEZ"
+    },
+    {
+      "Nombre": "JAQUELINE LOPEZ URBINA"
+    },
+    {
+      "Nombre": "YEISON ENRIQUE BOTELLO CORONEL"
+    },
+    {
+      "Nombre": "YESID ALFONSO ALVAREZ LIZCANO"
+    },
+    {
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO"
+    },
+    {
+      "Nombre": "CRISTIAN MIGUEL CARRILLO EPALZA"
+    },
+    {
+      "Nombre": "DIEGO ANDRES PAEZ RINCON"
+    },
+    {
+      "Nombre": "EDWIN MONSALVE"
+    },
+    {
+      "Nombre": "TULIO EDGAR RODRIGUEZ RAMIREZ"
+    },
+    {
+      "Nombre": "DEMIAN YEFREY CORRALES PABON"
+    },
+    {
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO"
+    },
+    {
+      "Nombre": "ALBER DANIEL VERGARA CONDE"
+    },
+    {
+      "Nombre": "CARLOS JOSE YEPES ACOSTA"
+    },
+    {
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ"
+    },
+    {
+      "Nombre": "JESUS DANUIL GALAN ROPERO"
+    },
+    {
+      "Nombre": "JESUS ALBERTO ROLON GOMEZ"
+    },
+    {
+      "Nombre": "EDGAR PEREZ MONTAÑEZ"
+    },
+    {
+      "Nombre": "LUIS ERASMO ORTIZ LEAL"
+    },
+    {
+      "Nombre": "SERGIO MIGUEL LEIVA HERNANDEZ"
+    },
+    {
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA"
+    },
+    {
+      "Nombre": "JOSE LUIS FORERO MORENO"
+    },
+    {
+      "Nombre": "LUIS MIGUEL TRIANA CARDENAS"
+    },
+    {
+      "Nombre": "ALVARO LUIS GONZALEZ BASTO"
+    },
+    {
+      "Nombre": "JUAN CARLOS CRUZ DUARTE"
+    },
+    {
+      "Nombre": "DANNI FERNANDO BULLA SUAREZ"
+    },
+    {
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO"
+    },
+    {
+      "Nombre": "JAQUELINE LOPEZ URBINA"
+    },
+    {
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ"
+    },
+    {
+      "Nombre": "EDUAR DAVID CORAL FLOREZ"
+    },
+    {
+      "Nombre": "RICARDO ARLEY JIMENEZ FUENTES"
+    },
+    {
+      "Nombre": "ANDERSON STIVEN FLORES BASTO"
+    },
+    {
+      "Nombre": "EDGAR PEREZ MONTAÑEZ"
+    },
+    {
+      "Nombre": "JESUS ORLANDO MONSALVE "
+    },
+    {
+      "Nombre": "EDWIN FARUT SUAREZ HORMAZA"
+    }
+  ],
+  "Nombre_PtePorInspecciones": [
+    {
+      "Nombre": "RODRIGUEZ QUINTERO EDUARDO",
+      "Proceso": "CUCUTA-INTERVENTOR"
+    },
+    {
+      "Nombre": "DUARTE MARTINEZ NELLY PATRICIA",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "RODRIGUEZ QUINTERO MARIA ISABEL",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "HERNANDEZ BADILLO NANCY",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "LOPEZ PEREZ FRANKLIN ",
+      "Proceso": "CUCUTA-DRASTICOS"
+    },
+    {
+      "Nombre": "MENDOZA PARDO EDGAR YOHEDMAR",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "PEREZ PEREZ CIRO",
+      "Proceso": "ADMIN"
+    },
+    {
+      "Nombre": "ORTEGA ORTIZ JULIETH NATALIA",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "MONTAÑEZ ROJAS ELIANA PATRICIA",
+      "Proceso": "CUCUTA-FACTURACION"
+    },
+    {
+      "Nombre": "JAIMES JAIMES EDSON ",
+      "Proceso": "CUCUTA-DRASTICOS"
+    },
+    {
+      "Nombre": "MEDINA SAAVEDRA DIEGO ANDRES",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "SUAREZ CABEZA MARCOS FIDEL",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "MARQUEZ VALENCIA CARLOS DAVID",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "GARCIA CONTRERAS CESAR EDUARDO",
+      "Proceso": "CUCUTA"
+    },
+    {
+      "Nombre": "ORTEGA NAVARRO OSMEL",
+      "Proceso": "CUCUTA"
+    },
+    {
+      "Nombre": "MENDOZA CASTRO JORMAN DAMIAN",
+      "Proceso": "CUCUTA-FACTURACION"
+    },
+    {
+      "Nombre": "PEÑARANDA OMEARA IVAN ANDRES ",
+      "Proceso": "CUCUTA-FACTURACION"
+    },
+    {
+      "Nombre": "GALLO SILVA ANDRES FELIPE",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "ORTIZ CORREA ANDERSON",
+      "Proceso": "CUCUTA-SSTA"
+    },
+    {
+      "Nombre": "GRISALES AILLON JHON ALEXANDER",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "SIERRA JAIMES MIRYAM JOHANA",
+      "Proceso": "CUCUTA-SSTA"
+    },
+    {
+      "Nombre": "ACEVEDO ORTIZ CESAR AUGUSTO",
+      "Proceso": "CUCUTA-FACTURACION"
+    }
+  ],
+  "Cantidad_PtePorInspecciones": 22,
+  "CantidaInspAnterior": 0,
+  "NombreInspAnterior": [],
+  "CantidadInspPosterior": 51,
+  "NombreInspPosterior": [
+    {
+      "Nombre": "FREIMAN CLAVIJO PEREZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "DIEGO ANDRES PAEZ RINCON",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "OMAR JOSE NAVARRO ESCALANTE",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "MIGUEL ANGEL CELIS AILLON",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "LESTY MARIA CORDOBA HERNANDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "DEMIAN YEFREY CORRALES PABON",
+      "ResultInsp": "No Conforme"
+    },
+    {
+      "Nombre": "JESUS ALBERTO ROLON GOMEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "YESID ALFONSO ALVAREZ LIZCANO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "YEISON ENRIQUE BOTELLO CORONEL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JESUS EDILSO URQUIJO CRUZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "DEMIAN YEFREY CORRALES PABON",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ALBER DANIEL VERGARA CONDE",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "SERGIO MIGUEL LEIVA HERNANDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDWIN FARUT SUAREZ HORMAZA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CRISTIAN MIGUEL CARRILLO EPALZA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "LESTY MARIA CORDOBA HERNANDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JAQUELINE LOPEZ URBINA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "YEISON ENRIQUE BOTELLO CORONEL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "YESID ALFONSO ALVAREZ LIZCANO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CRISTIAN MIGUEL CARRILLO EPALZA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "DIEGO ANDRES PAEZ RINCON",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDWIN MONSALVE",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "TULIO EDGAR RODRIGUEZ RAMIREZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "DEMIAN YEFREY CORRALES PABON",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ALBER DANIEL VERGARA CONDE",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS JOSE YEPES ACOSTA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JESUS DANUIL GALAN ROPERO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JESUS ALBERTO ROLON GOMEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDGAR PEREZ MONTAÑEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "LUIS ERASMO ORTIZ LEAL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "SERGIO MIGUEL LEIVA HERNANDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JOSE LUIS FORERO MORENO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "LUIS MIGUEL TRIANA CARDENAS",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ALVARO LUIS GONZALEZ BASTO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUAN CARLOS CRUZ DUARTE",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "DANNI FERNANDO BULLA SUAREZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JAQUELINE LOPEZ URBINA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDUAR DAVID CORAL FLOREZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "RICARDO ARLEY JIMENEZ FUENTES",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ANDERSON STIVEN FLORES BASTO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDGAR PEREZ MONTAÑEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JESUS ORLANDO MONSALVE ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDWIN FARUT SUAREZ HORMAZA",
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "MotivoDeInspeccion": [
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "FREIMAN CLAVIJO PEREZ",
+      "FechaInicio": 45482.4443865741,
+      "FechaFinal": 45482.4477662037,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "DIEGO ANDRES PAEZ RINCON",
+      "FechaInicio": 45482.4572222222,
+      "FechaFinal": 45482.4627893519,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "OMAR JOSE NAVARRO ESCALANTE",
+      "FechaInicio": 45482.47625,
+      "FechaFinal": 45482.4802662037,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "MIGUEL ANGEL CELIS AILLON",
+      "FechaInicio": 45482.4967708333,
+      "FechaFinal": 45482.4998842593,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "LESTY MARIA CORDOBA HERNANDEZ",
+      "FechaInicio": 45482.5119444444,
+      "FechaFinal": 45482.5153125,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "DEMIAN YEFREY CORRALES PABON",
+      "FechaInicio": 45482.5197916667,
+      "FechaFinal": 45482.5249189815,
+      "ResultInsp": "No Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JESUS ALBERTO ROLON GOMEZ",
+      "FechaInicio": 45482.529849537,
+      "FechaFinal": 45482.5331481481,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "YESID ALFONSO ALVAREZ LIZCANO",
+      "FechaInicio": 45483.4176157407,
+      "FechaFinal": 45483.4213194444,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "YEISON ENRIQUE BOTELLO CORONEL",
+      "FechaInicio": 45483.429837963,
+      "FechaFinal": 45483.4334606481,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JESUS EDILSO URQUIJO CRUZ",
+      "FechaInicio": 45483.4505555556,
+      "FechaFinal": 45483.456724537,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "DEMIAN YEFREY CORRALES PABON",
+      "FechaInicio": 45483.4630671296,
+      "FechaFinal": 45483.4663773148,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ",
+      "FechaInicio": 45483.469537037,
+      "FechaFinal": 45483.4734606482,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "ALBER DANIEL VERGARA CONDE",
+      "FechaInicio": 45484.4234143519,
+      "FechaFinal": 45484.4275462963,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "SERGIO MIGUEL LEIVA HERNANDEZ",
+      "FechaInicio": 45484.4276157407,
+      "FechaFinal": 45484.4446412037,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "EDWIN FARUT SUAREZ HORMAZA",
+      "FechaInicio": 45484.5027083333,
+      "FechaFinal": 45484.5074768519,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ",
+      "FechaInicio": 45485.4518287037,
+      "FechaFinal": 45485.4555208333,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "CRISTIAN MIGUEL CARRILLO EPALZA",
+      "FechaInicio": 45485.4596064815,
+      "FechaFinal": 45485.4622222222,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "LESTY MARIA CORDOBA HERNANDEZ",
+      "FechaInicio": 45485.4716435185,
+      "FechaFinal": 45485.4756597222,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JAQUELINE LOPEZ URBINA",
+      "FechaInicio": 45485.4879282407,
+      "FechaFinal": 45485.4903819444,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "YEISON ENRIQUE BOTELLO CORONEL",
+      "FechaInicio": 45485.5957638889,
+      "FechaFinal": 45485.5989930556,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "YESID ALFONSO ALVAREZ LIZCANO",
+      "FechaInicio": 45485.6057986111,
+      "FechaFinal": 45485.6088657407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO",
+      "FechaInicio": 45485.6127430556,
+      "FechaFinal": 45485.6185532407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "CRISTIAN MIGUEL CARRILLO EPALZA",
+      "FechaInicio": 45486.4291203704,
+      "FechaFinal": 45486.4325115741,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "DIEGO ANDRES PAEZ RINCON",
+      "FechaInicio": 45486.4344097222,
+      "FechaFinal": 45486.466724537,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "EDWIN MONSALVE",
+      "FechaInicio": 45486.4352893519,
+      "FechaFinal": 45489.4246759259,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "TULIO EDGAR RODRIGUEZ RAMIREZ",
+      "FechaInicio": 45486.4367476852,
+      "FechaFinal": 45486.4409143518,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "DEMIAN YEFREY CORRALES PABON",
+      "FechaInicio": 45486.4537268519,
+      "FechaFinal": 45486.457650463,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO",
+      "FechaInicio": 45486.4709027778,
+      "FechaFinal": 45486.475625,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "ALBER DANIEL VERGARA CONDE",
+      "FechaInicio": 45486.4819328704,
+      "FechaFinal": 45486.4866550926,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "CARLOS JOSE YEPES ACOSTA",
+      "FechaInicio": 45486.5034259259,
+      "FechaFinal": 45486.5071759259,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ",
+      "FechaInicio": 45488.307962963,
+      "FechaFinal": 45488.3112847222,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JESUS DANUIL GALAN ROPERO",
+      "FechaInicio": 45488.4266087963,
+      "FechaFinal": 45488.4296296296,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JESUS ALBERTO ROLON GOMEZ",
+      "FechaInicio": 45488.4452083333,
+      "FechaFinal": 45488.4490277778,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "EDGAR PEREZ MONTAÑEZ",
+      "FechaInicio": 45488.4581828704,
+      "FechaFinal": 45488.4620023148,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "LUIS ERASMO ORTIZ LEAL",
+      "FechaInicio": 45488.4701736111,
+      "FechaFinal": 45488.4734259259,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "SERGIO MIGUEL LEIVA HERNANDEZ",
+      "FechaInicio": 45488.4756365741,
+      "FechaFinal": 45488.4793518518,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA",
+      "FechaInicio": 45489.4522222222,
+      "FechaFinal": 45489.4602083333,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "JOSE LUIS FORERO MORENO",
+      "FechaInicio": 45490.4000347222,
+      "FechaFinal": 45490.4079398148,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "LUIS MIGUEL TRIANA CARDENAS",
+      "FechaInicio": 45490.4131828704,
+      "FechaFinal": 45490.4222800926,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "ALVARO LUIS GONZALEZ BASTO",
+      "FechaInicio": 45490.4228240741,
+      "FechaFinal": 45490.4281018519,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "JUAN CARLOS CRUZ DUARTE",
+      "FechaInicio": 45490.4405439815,
+      "FechaFinal": 45490.4781018519,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "DANNI FERNANDO BULLA SUAREZ",
+      "FechaInicio": 45490.4405439815,
+      "FechaFinal": 45490.4781018519,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO",
+      "FechaInicio": 45490.4422106482,
+      "FechaFinal": 45490.4472337963,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JAQUELINE LOPEZ URBINA",
+      "FechaInicio": 45490.4611111111,
+      "FechaFinal": 45490.4929976852,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ",
+      "FechaInicio": 45490.4979398148,
+      "FechaFinal": 45490.5011689815,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "EDUAR DAVID CORAL FLOREZ",
+      "FechaInicio": 45495.4077546296,
+      "FechaFinal": 45495.4121990741,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "RICARDO ARLEY JIMENEZ FUENTES",
+      "FechaInicio": 45495.4252199074,
+      "FechaFinal": 45495.429375,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "ANDERSON STIVEN FLORES BASTO",
+      "FechaInicio": 45495.4399884259,
+      "FechaFinal": 45495.4461574074,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "EDGAR PEREZ MONTAÑEZ",
+      "FechaInicio": 45495.4557523148,
+      "FechaFinal": 45495.4609953704,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JESUS ORLANDO MONSALVE ",
+      "FechaInicio": 45495.46125,
+      "FechaFinal": 45495.4647106481,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "EDWIN FARUT SUAREZ HORMAZA",
+      "FechaInicio": 45495.467962963,
+      "FechaFinal": 45495.4734143519,
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "InspPorHora": {
+    "TipoDocumento": "",
+    "CantidadTipoDocumento": 0,
+    "HoraTipoDocumento": ""
+  }
+}

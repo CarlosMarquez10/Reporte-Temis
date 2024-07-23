@@ -1,3 +1,0 @@
-<button type="submit" ng-if="showbutton[2]==1" ng-disabled="formFiltros.$invalid" ng-click="ValidarCampos() &amp;&amp; GenerarReporteTabla()" class="btn btn-round btn-lg btn-primary ng-scope" aria-disabled="true" disabled="disabled" style="">
-                    <img src="assets/img/table2.png">
-                </button>

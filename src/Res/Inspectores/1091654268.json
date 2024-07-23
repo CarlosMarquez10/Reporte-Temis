@@ -1,0 +1,195 @@
+{
+  "Nombre": "PEÑARANDA ARIAS CRISTHIAN FABRIANY",
+  "Cedula": 1091654268,
+  "Rol": "Auxiliar-Supervisor",
+  "ProyectoSede": "OCAÑA",
+  "Proceso": "OCAÑA",
+  "CantidadOperativa": 36,
+  "Cantidad_Inspecciones": 60,
+  "Cantidad_InpsPendiente": 49,
+  "Cantidad_NoConformidades": 0,
+  "OperarioConNocomformidad": [],
+  "Cantidad_Atentos": 0,
+  "OperarioConAtentos": [],
+  "Cantidad_Inpeccionados": 11,
+  "NombreInsPeccionados": [
+    {
+      "Nombre": "JONATHAN VEGA BLANCO"
+    },
+    {
+      "Nombre": "JONATHAN VEGA BLANCO"
+    },
+    {
+      "Nombre": "YORMAN ANDREY PEREZ CLAVIJO"
+    },
+    {
+      "Nombre": "ANDREY AREVALO LOPEZ"
+    },
+    {
+      "Nombre": "JOSE ALFREDO ORTIZ PAEZ"
+    },
+    {
+      "Nombre": "JESUS ALFREDO LOPEZ TARAZONA"
+    },
+    {
+      "Nombre": "ARIDES TORRADO SANCHEZ"
+    },
+    {
+      "Nombre": "YORMAN ANDREY PEREZ CLAVIJO"
+    },
+    {
+      "Nombre": "BRAYAN SANCHEZ PEREZ"
+    },
+    {
+      "Nombre": "DIEGO ARMANDO RINCON ALVAREZ"
+    },
+    {
+      "Nombre": "EDWARD MENESES MENESES"
+    }
+  ],
+  "Nombre_PtePorInspecciones": [
+    {
+      "Nombre": "ASCANIO PEREZ ALEXANDER",
+      "Proceso": "OCAÑA"
+    },
+    {
+      "Nombre": "ARENAS BALLESTEROS ESNEIDER YENIETT",
+      "Proceso": "OCAÑA"
+    }
+  ],
+  "Cantidad_PtePorInspecciones": 2,
+  "CantidaInspAnterior": 5,
+  "NombreInspAnterior": [
+    {
+      "Nombre": "JOSE ALFREDO ORTIZ PAEZ",
+      "Proceso": "Conforme"
+    },
+    {
+      "Nombre": "YORMAN ANDREY PEREZ CLAVIJO",
+      "Proceso": "Conforme"
+    },
+    {
+      "Nombre": "BRAYAN SANCHEZ PEREZ",
+      "Proceso": "Conforme"
+    },
+    {
+      "Nombre": "DIEGO ARMANDO RINCON ALVAREZ",
+      "Proceso": "Conforme"
+    },
+    {
+      "Nombre": "EDWARD MENESES MENESES",
+      "Proceso": "Conforme"
+    }
+  ],
+  "CantidadInspPosterior": 6,
+  "NombreInspPosterior": [
+    {
+      "Nombre": "JONATHAN VEGA BLANCO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JONATHAN VEGA BLANCO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "YORMAN ANDREY PEREZ CLAVIJO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ANDREY AREVALO LOPEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JESUS ALFREDO LOPEZ TARAZONA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ARIDES TORRADO SANCHEZ",
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "MotivoDeInspeccion": [
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JONATHAN VEGA BLANCO",
+      "FechaInicio": 45477.4149189815,
+      "FechaFinal": 45477.4180092593,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JONATHAN VEGA BLANCO",
+      "FechaInicio": 45477.4182291667,
+      "FechaFinal": 45477.4210416667,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "YORMAN ANDREY PEREZ CLAVIJO",
+      "FechaInicio": 45484.6205671296,
+      "FechaFinal": 45484.6224189815,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "ANDREY AREVALO LOPEZ",
+      "FechaInicio": 45484.6244328704,
+      "FechaFinal": 45484.6266435185,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "JOSE ALFREDO ORTIZ PAEZ",
+      "FechaInicio": 45484.6268055556,
+      "FechaFinal": 45484.629849537,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JESUS ALFREDO LOPEZ TARAZONA",
+      "FechaInicio": 45485.6782175926,
+      "FechaFinal": 45485.6883680556,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "ARIDES TORRADO SANCHEZ",
+      "FechaInicio": 45485.7339236111,
+      "FechaFinal": 45485.7368518518,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "YORMAN ANDREY PEREZ CLAVIJO",
+      "FechaInicio": 45489.6429398148,
+      "FechaFinal": 45489.6454282407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "BRAYAN SANCHEZ PEREZ",
+      "FechaInicio": 45489.6459837963,
+      "FechaFinal": 45489.6479166667,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "DIEGO ARMANDO RINCON ALVAREZ",
+      "FechaInicio": 45489.6483564815,
+      "FechaFinal": 45489.6503009259,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "EDWARD MENESES MENESES",
+      "FechaInicio": 45489.6517592593,
+      "FechaFinal": 45489.6544675926,
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "InspPorHora": {
+    "TipoDocumento": "",
+    "CantidadTipoDocumento": 0,
+    "HoraTipoDocumento": ""
+  }
+}

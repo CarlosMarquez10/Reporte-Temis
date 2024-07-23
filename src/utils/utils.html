@@ -1,0 +1,277 @@
+<!-- // input desde  -->
+<div
+  ng-if="input.Tipo.includes('Date') || input.Tipo.includes('Day')"
+  ng-class="{true:'col-md-12',false:'col-md-6 col-sm-6'}[input.Tipo.includes('Day')]"
+  class="ng-scope col-md-6 col-sm-6"
+>
+  <!-- ngIf: !input.Tipo.includes('Day') --><label
+    class="control-label form-group ng-scope"
+    ng-if="!input.Tipo.includes('Day')"
+    >Desde</label
+  ><!-- end ngIf: !input.Tipo.includes('Day') -->
+  <input
+    type="text"
+    class="form-control ng-empty ng-valid ng-valid-required ng-touched"
+    data-autoclose="1"
+    bs-datepicker=""
+    name="MIN(d.FechaDocumento) OVER (PARTITION BY daa.Atributo1002,dca.IdDocumentoOrigenRC)"
+    ng-model="parametros[input.Campo]"
+    ng-required="input.FiltroRequerido"
+    data-max-date="today"
+    aria-required="false"
+    aria-invalid="false"
+    style=""
+  />
+</div>
+
+<input
+  type="text"
+  class="form-control ng-empty ng-valid ng-valid-required ng-touched"
+  data-autoclose="1"
+  bs-datepicker=""
+  name="MIN(d.FechaDocumento) OVER (PARTITION BY daa.Atributo1002,dca.IdDocumentoOrigenRC)"
+  ng-model="parametros[input.Campo]"
+  ng-required="input.FiltroRequerido"
+  data-max-date="today"
+  aria-required="false"
+  aria-invalid="false"
+  style=""
+/>
+
+<!-- input hasta  -->
+<div ng-if="input.Tipo.includes('Date')" class="col-md-6 col-sm-6 ng-scope">
+  <label class="control-label form-group">Hasta</label>
+  <input
+    type="text"
+    class="form-control ng-empty ng-valid ng-valid-required"
+    data-autoclose="1"
+    bs-datepicker=""
+    name="MIN(d.FechaDocumento) OVER (PARTITION BY daa.Atributo1002,dca.IdDocumentoOrigenRC)_adicional"
+    ng-model="parametros[input.Campo+'_adicional']"
+    ng-required="!!parametros[input.Campo] || input.FiltroRequerido"
+    data-min-date=""
+    aria-required="false"
+    aria-invalid="false"
+  />
+</div>
+<input
+  type="text"
+  class="form-control ng-empty ng-valid ng-valid-required ng-touched"
+  data-autoclose="1"
+  bs-datepicker=""
+  name="MIN(d.FechaDocumento) OVER (PARTITION BY daa.Atributo1002,dca.IdDocumentoOrigenRC)_adicional"
+  ng-model="parametros[input.Campo+'_adicional']"
+  ng-required="!!parametros[input.Campo] || input.FiltroRequerido"
+  data-min-date=""
+  aria-required="false"
+  aria-invalid="false"
+  style=""
+/>
+
+<!-- input proyecto -->
+
+<div
+  ng-repeat="input in lista | filter:{ Filtro: true, Activo: true }"
+  class="form-group filled col-md-12 col-sm-6 col-xs-12 ng-scope required"
+  ng-class="{required: input.FiltroRequerido}"
+  style=""
+>
+  <label class="control-label form-group col-md-12 ng-binding">Proyecto</label>
+  <!--MultiDate-->
+  <!-- ngIf: input.Tipo == 'Months' -->
+
+  <!---->
+  <!-- ngIf: input.Tipo == 'Month' -->
+  <!-- ngIf: input.Tipo.includes('Date') || input.Tipo.includes('Day') -->
+  <!-- ngIf: input.Tipo.includes('Date') -->
+  <!-- ngIf: input.Tipo == 'String' && !input.Autocomplete -->
+  <!-- ngIf: input.Tipo == 'MultiSelect' -->
+  <!-- ngIf: input.Tipo == 'String' && input.Autocomplete -->
+  <div
+    ng-if="input.Tipo == 'String' &amp;&amp; input.Autocomplete"
+    class="row col-md-12 ng-scope"
+  >
+    <div class="col-md-11 col-sm-11">
+      <angucomplete-alt
+        id="p.Codigo"
+        field-required="ValidarCampoRequerido(input) &amp;&amp; !listAutocomplete[(input.Entidad ? input.Entidad+'.' : '')+input.Campo].length"
+        selected-object="onChangeAutocomplete"
+        remote-url="https://temis.inmel.co/004/api/Reporte"
+        remote-url-request-formatter="remoteUrlRequestFn"
+        pause="100"
+        search-fields="Codigo,NombreProyecto"
+        title-field="Codigo,NombreProyecto"
+        description-field="Codigo"
+        input-class="form-control form-control-small"
+        auto-match="true"
+        focus-out="onFocusOut(this)"
+        minlength="2"
+        input-name="autocompletep_Codigo"
+        class="ng-isolate-scope"
+        ><div
+          class="angucomplete-holder"
+          ng-class="{'angucomplete-dropdown-visible': showDropdown}"
+        >
+          <input
+            id="p.Codigo_value"
+            name="autocompletep_Codigo"
+            tabindex=""
+            ng-class="{'angucomplete-input-not-empty': notEmpty}"
+            ng-model="searchStr"
+            ng-disabled="disableInput"
+            type="text"
+            placeholder=""
+            maxlength="524288"
+            ng-focus="onFocusHandler()"
+            class="form-control form-control-small"
+            ng-blur="hideResults($event)"
+            autocapitalize="off"
+            autocorrect="off"
+            autocomplete="off"
+            ng-change="inputChangeHandler(searchStr)"
+            aria-disabled="false"
+            aria-invalid="true"
+          />
+          <div
+            id="p.Codigo_dropdown"
+            class="angucomplete-dropdown ng-hide"
+            ng-show="showDropdown"
+            aria-hidden="true"
+          >
+            <div
+              class="angucomplete-searching ng-binding ng-hide"
+              ng-show="searching"
+              ng-bind="textSearching"
+              aria-hidden="true"
+            >
+              Searching...
+            </div>
+            <div
+              class="angucomplete-searching ng-binding"
+              ng-show="!searching &amp;&amp; (!results || results.length == 0)"
+              ng-bind="textNoResults"
+              aria-hidden="false"
+            >
+              No results found
+            </div>
+            <!-- ngRepeat: result in results -->
+          </div>
+        </div></angucomplete-alt
+      >
+    </div>
+    <div class="col-md-1 col-sm-1">
+      <button
+        ng-click="AgregarFiltro($event,this)"
+        id="p.Codigo"
+        class="btn btn-lg btn-round grey darken-1"
+      >
+        <span class="md md-add"></span>
+      </button>
+    </div>
+    <div class="col-md-12">
+      <!-- ngRepeat: elemento in listAutocomplete[input.Entidad + '.' + input.Campo] -->
+    </div>
+  </div>
+  <!-- end ngIf: input.Tipo == 'String' && input.Autocomplete -->
+</div>
+
+<!-- contenedor botones del Reporte -->
+
+<div class="form-group col-md-12" style="margin-left: 10px; margin-top: 10px">
+  <!-- ngIf: showbutton[0]==1 -->
+  <!-- ngIf: showbutton[1]==1 -->
+  <!-- ngIf: showbutton[2]==1 --><button
+    type="submit"
+    ng-if="showbutton[2]==1"
+    ng-disabled="formFiltros.$invalid"
+    ng-click="ValidarCampos() &amp;&amp; GenerarReporteTabla()"
+    class="btn btn-round btn-lg btn-primary ng-scope"
+    aria-disabled="true"
+    disabled="disabled"
+    style=""
+  >
+    <img src="assets/img/table2.png" /></button
+  ><!-- end ngIf: showbutton[2]==1 -->
+
+  <!-- ngIf: showbutton[3]==1 --><button
+    type="submit"
+    ng-if="showbutton[3]==1"
+    ng-disabled="formFiltros.$invalid"
+    ng-click="ValidarCampos() &amp;&amp; GenerarReporteVisual()"
+    class="btn btn-round btn-lg btn-primary ng-scope"
+    title="Generar informacion"
+    aria-disabled="true"
+    disabled="disabled"
+    style=""
+  >
+    <span class="md md-search"></span></button
+  ><!-- end ngIf: showbutton[3]==1 -->
+
+  <!-- ngIf: showbutton[4]==1 -->
+  <!-- ngIf: showbutton[5]==1 -->
+
+  <!-- ngIf: showbutton[7]==1 -->
+
+  <!-- ngIf: showbutton[3]==1 --><label
+    ng-if="showbutton[3]==1"
+    class="form-group ng-binding ng-scope"
+    style="float: right; padding-right: 10%"
+    >Total registros: 0</label
+  ><!-- end ngIf: showbutton[3]==1 -->
+</div>
+
+name="MIN(d.FechaDocumento) OVER (PARTITION BY
+daa.Atributo1002,dca.IdDocumentoOrigenRC)_adicional"
+
+<button
+  type="submit"
+  ng-if="showbutton[2]==1"
+  ng-disabled="formFiltros.$invalid"
+  ng-click="ValidarCampos() &amp;&amp; GenerarReporteTabla()"
+  class="btn btn-round btn-lg btn-primary ng-scope"
+  aria-disabled="false"
+  style=""
+>
+  <img src="assets/img/table2.png" />
+</button>
+
+<button
+  type="submit"
+  ng-if="showbutton[2]==1"
+  ng-disabled="formFiltros.$invalid"
+  ng-click="ValidarCampos() &amp;&amp; GenerarReporteTabla()"
+  class="btn btn-round btn-lg btn-primary ng-scope"
+  aria-disabled="true"
+  disabled="disabled"
+  style=""
+>
+  <img src="assets/img/table2.png" />
+</button>
+
+<input
+  type="text"
+  class="form-control ng-empty ng-valid ng-valid-required ng-touched"
+  data-autoclose="1"
+  bs-datepicker=""
+  name="FechaDocumento"
+  ng-model="parametros[input.Campo]"
+  ng-required="input.FiltroRequerido"
+  data-max-date="today"
+  aria-required="false"
+  aria-invalid="false"
+  style=""
+/>
+
+<input
+  type="text"
+  class="form-control ng-empty ng-valid ng-valid-required ng-touched"
+  data-autoclose="1"
+  bs-datepicker=""
+  name="FechaDocumento_adicional"
+  ng-model="parametros[input.Campo+'_adicional']"
+  ng-required="!!parametros[input.Campo] || input.FiltroRequerido"
+  data-min-date=""
+  aria-required="false"
+  aria-invalid="false"
+  style=""
+/>

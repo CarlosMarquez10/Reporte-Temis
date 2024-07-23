@@ -2,9 +2,9 @@ import puppeteer from "puppeteer";
 import path from "path";
 import { fileURLToPath } from "url";
 import { User, Password } from "../config.js";
-// import fs from "fs"; // Si no lo estás usando, puedes comentar esta línea
+import fs from "fs";
 
-export async function openSac(numeroCliente, correo) {
+export async function InspCampo(numeroCliente, correo) {
   // Obtiene la ruta del directorio del módulo actual
   const dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -15,8 +15,10 @@ export async function openSac(numeroCliente, correo) {
     headless: false,
     slowMo: 100,
     ignoreHTTPSErrors: true, // Ignora los errores de certificado
-    defaultViewport: { width: 1280, height: 800 } // Ajusta el tamaño de la ventana
+    defaultViewport: { width: 1920, height: 1080 }, // Ajusta el tamaño de la ventana
   });
+
+
   const page = await browser.newPage();
 
   // Crea una nueva sesión del Protocolo de Depuración de Chrome
@@ -28,7 +30,9 @@ export async function openSac(numeroCliente, correo) {
     downloadPath: downloadPath,
   });
 
-  await page.goto("https://temis.inmel.co/004/dist/#/login");
+  await page.goto("https://temis.inmel.co/004/dist/#/login", {
+    waitUntil: 'networkidle0', // Espera hasta que no haya más de 0 conexiones de red durante al menos 500 ms
+  });
 
   // Espera a que los campos de entrada estén disponibles
   await page.waitForSelector("#inputEmail");
@@ -63,10 +67,10 @@ export async function openSac(numeroCliente, correo) {
   await page.click('a[href="#/reporte/3613"]');
 
   // Opcional: Espera un poco después de hacer clic para asegurarte de que la acción tenga tiempo de completarse
-  await new Promise((r) => setTimeout(r, 2000));
+  await new Promise((r) => setTimeout(r, 5000));
 
   // Espera a que los botones del formulario estén disponibles
-  await page.waitForSelector('div.form-group.col-md-12');
+  await page.waitForSelector('section.col-md-12', {visible: true});
 
   // Espera a que los campos de fecha estén disponibles
   await page.waitForSelector('input[name="FechaFinalEjecucion"]');
@@ -97,30 +101,15 @@ export async function openSac(numeroCliente, correo) {
   await page.waitForSelector('button[ng-click="ValidarCampos() && GenerarReporteTabla()"]');
   await page.click('button[ng-click="ValidarCampos() && GenerarReporteTabla()"]');
 
-  // Opcional: Espera un poco después de hacer clic para asegurarte de que la acción tenga tiempo de completarse
-  await new Promise((r) => setTimeout(r, 2000));
-
-  // Espera a que el botón de menú esté disponible
-  await page.waitForSelector('button.navbar-toggle.pull-left.m-15');
-
-  // Asegúrate de que el botón de menú sea visible y habilitado antes de hacer clic
-  const menuButton = await page.$('button.navbar-toggle.pull-left.m-15');
-  const isVisible = await menuButton.evaluate((btn) => {
-    const style = window.getComputedStyle(btn);
-    return style && style.display !== 'none' && style.visibility !== 'hidden' && !btn.disabled;
-  });
-
-  if (isVisible) {
-    await menuButton.click();
-  } else {
-    console.error('El botón de menú no está visible o habilitado');
-  }
-
+  
   // Opcional: Espera un poco después de hacer clic para asegurarte de que la lista se despliegue
   await new Promise((r) => setTimeout(r, 2000));
 
-  // Realiza otras acciones o cierra el navegador
-  // await browser.close();
+  // Verifica si el archivo se descargó
+  const fileName = "Reporte General Insp. ESSA Cens.xlsx"; // Cambia esto al nombre real del archivo
+  const fileDownloaded = fs.existsSync(path.join(downloadPath, fileName));
+  await new Promise((r) => setTimeout(r, 50000));
+  await browser.close();
+  console.log(fileDownloaded)
+  return fileDownloaded;
 }
-
-openSac();

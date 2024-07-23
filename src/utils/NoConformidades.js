@@ -2,7 +2,7 @@ import puppeteer from "puppeteer";
 import path from "path";
 import { fileURLToPath } from "url";
 import { User, Password } from "../config.js";
-// import fs from "fs"; // Si no lo estás usando, puedes comentar esta línea
+import fs from "fs";
 
 export async function NoComformeRepo() {
   // Obtiene la ruta del directorio del módulo actual
@@ -15,8 +15,12 @@ export async function NoComformeRepo() {
     headless: false,
     slowMo: 100,
     ignoreHTTPSErrors: true, // Ignora los errores de certificado
-    defaultViewport: { width: 1280, height: 800 }, // Ajusta el tamaño de la ventana
+    defaultViewport: { width: 1024, height: 800 }, // Ajusta el tamaño de la ventana
+
   });
+
+
+
   const page = await browser.newPage();
 
   // Crea una nueva sesión del Protocolo de Depuración de Chrome
@@ -28,11 +32,13 @@ export async function NoComformeRepo() {
     downloadPath: downloadPath,
   });
 
-  await page.goto("https://temis.inmel.co/004/dist/#/login");
+  await page.goto("https://temis.inmel.co/004/dist/#/login", {
+    waitUntil: 'networkidle0', // Espera hasta que no haya más de 0 conexiones de red durante al menos 500 ms
+  });
 
   // Espera a que los campos de entrada estén disponibles
-  await page.waitForSelector("#inputEmail");
-  await page.waitForSelector("#inputPassword");
+  await page.waitForSelector("#inputEmail", { visible: true });
+  await page.waitForSelector("#inputPassword", { visible: true });
 
   // Llena el formulario
   await page.type("#inputEmail", User);
@@ -48,14 +54,10 @@ export async function NoComformeRepo() {
   await new Promise((r) => setTimeout(r, 2000));
 
   // Espera a que el enlace de la lista desplegable esté disponible
-  await page.waitForSelector(
-    'a[data-toggle="collapse"][data-target="#NCyPlanesdeAcción"]'
-  );
+  await page.waitForSelector('a[data-toggle="collapse"][data-target="#NCyPlanesdeAcción"]');
 
   // Haz clic en el enlace para desplegar la lista
-  await page.click(
-    'a[data-toggle="collapse"][data-target="#NCyPlanesdeAcción"]'
-  );
+  await page.click('a[data-toggle="collapse"][data-target="#NCyPlanesdeAcción"]');
 
   // Opcional: Espera un poco después de hacer clic para asegurarte de que la lista se despliegue
   await new Promise((r) => setTimeout(r, 2000));
@@ -67,25 +69,21 @@ export async function NoComformeRepo() {
   await page.click('a[href="#/reporte/1058"]');
 
   // Opcional: Espera un poco después de hacer clic para asegurarte de que la acción tenga tiempo de completarse
-  await new Promise((r) => setTimeout(r, 2000));
+  await new Promise((r) => setTimeout(r, 15000));
 
   // Espera a que los botones del formulario estén disponibles
-  await page.waitForSelector("div.form-group.col-md-12");
-
+  await page.waitForSelector('section.col-md-12', {visible: true});
+  await new Promise((r) => setTimeout(r, 5000));
   // Espera a que los campos de fecha estén disponibles
-  await page.waitForSelector('input[name="FechaDocumento"]');
-  await page.waitForSelector('input[name="FechaDocumento_adicional"]');
+  await page.waitForSelector('input[name="FechaDocumento"]', {visible: true});
+  await page.waitForSelector('input[name="FechaDocumento_adicional"]', {visible: true});
 
   // Espera dos segundos antes de ingresar la fecha desde
   await new Promise((r) => setTimeout(r, 2000));
 
   // Obtener la fecha actual y el primer día del mes
   const currentDate = new Date();
-  const firstDayOfMonth = new Date(
-    currentDate.getFullYear(),
-    currentDate.getMonth(),
-    1
-  );
+  const firstDayOfMonth = new Date(currentDate.getFullYear(), currentDate.getMonth(), 1);
   const formattedFirstDay = firstDayOfMonth.toLocaleDateString("en-GB"); // '01/07/2024'
   const formattedCurrentDate = currentDate.toLocaleDateString("en-GB"); // '05/07/2024'
 
@@ -96,13 +94,10 @@ export async function NoComformeRepo() {
   await new Promise((r) => setTimeout(r, 2000));
 
   // Llena el campo de fecha hasta
-  await page.type(
-    'input[name="FechaDocumento_adicional"]',
-    formattedCurrentDate
-  );
+  await page.type('input[name="FechaDocumento_adicional"]', formattedCurrentDate);
 
   // Opcional: Espera un poco después de llenar los campos para asegurarte de que la acción tenga tiempo de completarse
-  await new Promise((r) => setTimeout(r, 2000));
+  await new Promise((r) => setTimeout(r, 5000));
 
   // Espera a que el campo de nombre de proyecto esté disponible
   await page.waitForSelector('input[id="p.Codigo_value"]');
@@ -110,58 +105,22 @@ export async function NoComformeRepo() {
   // Llena el campo de nombre de proyecto
   await page.type('input[id="p.Codigo_value"]', "09H");
 
-  // Espera dos segundos antes de seleccionar la opción
-  await new Promise((r) => setTimeout(r, 2000));
+  await new Promise((r) => setTimeout(r, 1000));
 
-  // Espera a que el campo de nombre de proyecto esté disponible
-  await page.waitForSelector('input[id="p.Codigo_value"]');
+  await page.waitForSelector('button[ng-click="ValidarCampos() && GenerarReporteTabla()"]', {visible: true});
+  await page.click('button[ng-click="ValidarCampos() && GenerarReporteTabla()"]');
 
-  // Llena el campo de nombre de proyecto
-  await page.type('input[id="p.Codigo_value"]', "09H");
-
-  // // Espera a que la opción aparezca y haz clic en ella
-  // await page.waitForSelector(
-  //   "div.angucomplete-description.ng-binding.ng-scope"
-  // );
-  // await page.click("div.angucomplete-description.ng-binding.ng-scope");
-
-  // Espera a que el botón esté disponible y haz clic en él
-  await page.waitForSelector(
-    'button[ng-click="ValidarCampos() && GenerarReporteTabla()"]'
-  );
-  await page.click(
-    'button[ng-click="ValidarCampos() && GenerarReporteTabla()"]'
-  );
-
-  // Opcional: Espera un poco después de hacer clic para asegurarte de que la acción tenga tiempo de completarse
-  await new Promise((r) => setTimeout(r, 2000));
-
-  // Espera a que el botón de menú esté disponible
-  // await page.waitForSelector('button.navbar-toggle.pull-left.m-15');
-
-  // Asegúrate de que el botón de menú sea visible y habilitado antes de hacer clic
-  const menuButton = await page.$("button.navbar-toggle.pull-left.m-15");
-  const isVisible = await menuButton.evaluate((btn) => {
-    const style = window.getComputedStyle(btn);
-    return (
-      style &&
-      style.display !== "none" &&
-      style.visibility !== "hidden" &&
-      !btn.disabled
-    );
-  });
-
-  if (isVisible) {
-    await menuButton.click();
-  } else {
-    console.error("El botón de menú no está visible o habilitado");
-  }
 
   // Opcional: Espera un poco después de hacer clic para asegurarte de que la lista se despliegue
-  await new Promise((r) => setTimeout(r, 2000));
+  await new Promise((r) => setTimeout(r, 1000));
 
-  // Realiza otras acciones o cierra el navegador
-  // await browser.close();
+  // Verifica si el archivo se descargó
+  const fileName = "Reporte No Conformidades.xlsx"; // Cambia esto al nombre real del archivo
+  const fileDownloaded = fs.existsSync(path.join(downloadPath, fileName));
+  await new Promise((r) => setTimeout(r, 50000));
+  await browser.close();
+
+  return fileDownloaded;
 }
 
-NoComformeRepo();
+// NoComformeRepo()

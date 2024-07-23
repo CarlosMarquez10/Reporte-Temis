@@ -1,0 +1,49 @@
+{
+  "Nombre": "NORIEGA DUARTE CRISTIAN LEONARDO ",
+  "Cedula": 1064841699,
+  "Rol": "Auxiliar-Supervisor",
+  "ProyectoSede": "AGUACHICA",
+  "Proceso": "AGUACHICA",
+  "CantidadOperativa": 21,
+  "Cantidad_Inspecciones": 60,
+  "Cantidad_InpsPendiente": 60,
+  "Cantidad_NoConformidades": 0,
+  "OperarioConNocomformidad": [],
+  "Cantidad_Atentos": 0,
+  "OperarioConAtentos": [],
+  "Cantidad_Inpeccionados": 0,
+  "NombreInsPeccionados": [],
+  "Nombre_PtePorInspecciones": [
+    {
+      "Nombre": "PAEZ VACCA EDIL",
+      "Proceso": "AGUACHICA"
+    },
+    {
+      "Nombre": "NORIEGA DUARTE CRISTIAN LEONARDO ",
+      "Proceso": "AGUACHICA"
+    },
+    {
+      "Nombre": "BAYONA GONGORA DAGOBERTO ",
+      "Proceso": "AGUACHICA"
+    },
+    {
+      "Nombre": "PACHECO CARVAJALINO KAREN PAOLA",
+      "Proceso": "AGUACHICA"
+    },
+    {
+      "Nombre": "QUIN RIOS JONNATHAN ANDRES",
+      "Proceso": "AGUACHICA"
+    }
+  ],
+  "Cantidad_PtePorInspecciones": 5,
+  "CantidaInspAnterior": 0,
+  "NombreInspAnterior": [],
+  "CantidadInspPosterior": 0,
+  "NombreInspPosterior": [],
+  "MotivoDeInspeccion": [],
+  "InspPorHora": {
+    "TipoDocumento": "",
+    "CantidadTipoDocumento": 0,
+    "HoraTipoDocumento": ""
+  }
+}

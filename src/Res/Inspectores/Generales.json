@@ -1,0 +1,1166 @@
+{
+  "CucutaDrastico": {
+    "cantidadInspGeneral": [
+      {
+        "semana_1": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_2": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_3": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_4": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_5": {
+          "dias": 3,
+          "cantidad": 20
+        }
+      },
+      {
+        "totales": 180
+      }
+    ],
+    "cantidadInspEjecutadas": 33,
+    "atentosEjecutado": 2,
+    "NoConformidades": 0,
+    "NoConformidaEstados": [
+      {
+        "Inspector": "MIRYAM  SIERRA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "DEMIAN YEFREY CORRALES PABON",
+        "Description": "Gorra la perdio sábado ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45482.5244328704,
+        "FechaEspCorrecion": 45483
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "CARLOS FERNANDO DUARTE RUBIO",
+        "Description": "En la inspección de seguridad, se evidencia direccional derecho delantero del vehículo en mal estado. al accionarlo, este no enciende ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45486.61,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "ventilador en mal estado no funciona ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7368634259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "mesa en mal estádo",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7378009259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JUNIOR SCHMITH WILCHES GONZALEZ",
+        "Description": "en inspeccion de seguridad, se evidencia al trabajador, omitiendo el uso de la pava, al preguntar por ella, manifiesta que la dejo en la casa.",
+        "Impacto": "Alto",
+        "FechaInspNC": 45491.6160069444,
+        "FechaEspCorrecion": 45504
+      }
+    ],
+    "constInsp": 6.66,
+    "IdSupervisor": 1090379569,
+    "IdAuxSupervisor": 5401549,
+    "TipoInspeccion": {
+      "19 - Insp Seguridad SCR Energía": {
+        "Cantidad": 21
+      },
+      "20 - Insp Calidad SCR Energía": {
+        "Cantidad": 12
+      }
+    },
+    "FormaInspeccion": {
+      "Posterior": 1,
+      "Inmediata": 32
+    }
+  },
+  "CucutaScr": {
+    "cantidadInspGeneral": [
+      {
+        "semana_1": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_2": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_3": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_4": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_5": {
+          "dias": 3,
+          "cantidad": 20
+        }
+      },
+      {
+        "totales": 180
+      }
+    ],
+    "cantidadInspEjecutadas": 36,
+    "atentosEjecutado": 2,
+    "NoConformidades": 2,
+    "NoConformidaEstados": [
+      {
+        "Inspector": "MIRYAM  SIERRA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "DEMIAN YEFREY CORRALES PABON",
+        "Description": "Gorra la perdio sábado ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45482.5244328704,
+        "FechaEspCorrecion": 45483
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "CARLOS FERNANDO DUARTE RUBIO",
+        "Description": "En la inspección de seguridad, se evidencia direccional derecho delantero del vehículo en mal estado. al accionarlo, este no enciende ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45486.61,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "ventilador en mal estado no funciona ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7368634259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "mesa en mal estádo",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7378009259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JUNIOR SCHMITH WILCHES GONZALEZ",
+        "Description": "en inspeccion de seguridad, se evidencia al trabajador, omitiendo el uso de la pava, al preguntar por ella, manifiesta que la dejo en la casa.",
+        "Impacto": "Alto",
+        "FechaInspNC": 45491.6160069444,
+        "FechaEspCorrecion": 45504
+      }
+    ],
+    "constInsp": 6.66,
+    "IdSupervisor": 88271021,
+    "IdAuxSupervisor": 1116801169,
+    "TipoInspeccion": {
+      "19 - Insp Seguridad SCR Energía": {
+        "Cantidad": 24
+      },
+      "20 - Insp Calidad SCR Energía": {
+        "Cantidad": 2
+      },
+      "16 - Insp Seguridad Lec-Rep Energía": {
+        "Cantidad": 2
+      },
+      "17 - Insp Calidad Lec-Rep Energía": {
+        "Cantidad": 8
+      }
+    },
+    "FormaInspeccion": {
+      "Posterior": 8,
+      "Inmediata": 28
+    }
+  },
+  "CucutaFacturacion": {
+    "cantidadInspGeneral": [
+      {
+        "semana_1": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_2": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_3": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_4": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_5": {
+          "dias": 3,
+          "cantidad": 20
+        }
+      },
+      {
+        "totales": 180
+      }
+    ],
+    "cantidadInspEjecutadas": 36,
+    "atentosEjecutado": 0,
+    "NoConformidades": 2,
+    "NoConformidaEstados": [
+      {
+        "Inspector": "MIRYAM  SIERRA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "DEMIAN YEFREY CORRALES PABON",
+        "Description": "Gorra la perdio sábado ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45482.5244328704,
+        "FechaEspCorrecion": 45483
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "CARLOS FERNANDO DUARTE RUBIO",
+        "Description": "En la inspección de seguridad, se evidencia direccional derecho delantero del vehículo en mal estado. al accionarlo, este no enciende ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45486.61,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "ventilador en mal estado no funciona ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7368634259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "mesa en mal estádo",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7378009259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JUNIOR SCHMITH WILCHES GONZALEZ",
+        "Description": "en inspeccion de seguridad, se evidencia al trabajador, omitiendo el uso de la pava, al preguntar por ella, manifiesta que la dejo en la casa.",
+        "Impacto": "Alto",
+        "FechaInspNC": 45491.6160069444,
+        "FechaEspCorrecion": 45504
+      }
+    ],
+    "constInsp": 6.66,
+    "IdSupervisor": 88271021,
+    "IdAuxSupervisor": 1116801169,
+    "TipoInspeccion": {
+      "17 - Insp Calidad Lec-Rep Energía": {
+        "Cantidad": 14
+      },
+      "16 - Insp Seguridad Lec-Rep Energía": {
+        "Cantidad": 16
+      }
+    },
+    "FormaInspeccion": {
+      "Posterior": 1,
+      "Inmediata": 29
+    }
+  },
+  "Pamplona": {
+    "cantidadInspGeneral": [
+      {
+        "semana_1": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_2": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_3": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_4": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_5": {
+          "dias": 3,
+          "cantidad": 20
+        }
+      },
+      {
+        "totales": 180
+      }
+    ],
+    "cantidadInspEjecutadas": 27,
+    "atentosEjecutado": 2,
+    "NoConformidades": 0,
+    "NoConformidaEstados": [
+      {
+        "Inspector": "MIRYAM  SIERRA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "DEMIAN YEFREY CORRALES PABON",
+        "Description": "Gorra la perdio sábado ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45482.5244328704,
+        "FechaEspCorrecion": 45483
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "CARLOS FERNANDO DUARTE RUBIO",
+        "Description": "En la inspección de seguridad, se evidencia direccional derecho delantero del vehículo en mal estado. al accionarlo, este no enciende ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45486.61,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "ventilador en mal estado no funciona ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7368634259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "mesa en mal estádo",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7378009259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JUNIOR SCHMITH WILCHES GONZALEZ",
+        "Description": "en inspeccion de seguridad, se evidencia al trabajador, omitiendo el uso de la pava, al preguntar por ella, manifiesta que la dejo en la casa.",
+        "Impacto": "Alto",
+        "FechaInspNC": 45491.6160069444,
+        "FechaEspCorrecion": 45504
+      }
+    ],
+    "constInsp": 6.66,
+    "IdSupervisor": 1090465860,
+    "IdAuxSupervisor": 1094662916,
+    "TipoInspeccion": {
+      "16 - Insp Seguridad Lec-Rep Energía": {
+        "Cantidad": 8
+      },
+      "17 - Insp Calidad Lec-Rep Energía": {
+        "Cantidad": 9
+      },
+      "18 - Insp Ambiental Lec-Rep Energía": {
+        "Cantidad": 9
+      },
+      "19 - Insp Seguridad SCR Energía": {
+        "Cantidad": 1
+      }
+    },
+    "FormaInspeccion": {
+      "Posterior": 0,
+      "Inmediata": 27
+    }
+  },
+  "Ocana": {
+    "cantidadInspGeneral": [
+      {
+        "semana_1": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_2": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_3": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_4": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_5": {
+          "dias": 3,
+          "cantidad": 20
+        }
+      },
+      {
+        "totales": 180
+      }
+    ],
+    "cantidadInspEjecutadas": 11,
+    "atentosEjecutado": 0,
+    "NoConformidades": 0,
+    "NoConformidaEstados": [
+      {
+        "Inspector": "MIRYAM  SIERRA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "DEMIAN YEFREY CORRALES PABON",
+        "Description": "Gorra la perdio sábado ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45482.5244328704,
+        "FechaEspCorrecion": 45483
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "CARLOS FERNANDO DUARTE RUBIO",
+        "Description": "En la inspección de seguridad, se evidencia direccional derecho delantero del vehículo en mal estado. al accionarlo, este no enciende ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45486.61,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "ventilador en mal estado no funciona ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7368634259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "mesa en mal estádo",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7378009259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JUNIOR SCHMITH WILCHES GONZALEZ",
+        "Description": "en inspeccion de seguridad, se evidencia al trabajador, omitiendo el uso de la pava, al preguntar por ella, manifiesta que la dejo en la casa.",
+        "Impacto": "Alto",
+        "FechaInspNC": 45491.6160069444,
+        "FechaEspCorrecion": 45504
+      }
+    ],
+    "constInsp": 6.66,
+    "IdSupervisor": 1090983561,
+    "IdAuxSupervisor": 1091654268,
+    "TipoInspeccion": {
+      "17 - Insp Calidad Lec-Rep Energía": {
+        "Cantidad": 6
+      },
+      "16 - Insp Seguridad Lec-Rep Energía": {
+        "Cantidad": 3
+      },
+      "18 - Insp Ambiental Lec-Rep Energía": {
+        "Cantidad": 2
+      }
+    },
+    "FormaInspeccion": {
+      "Posterior": 5,
+      "Inmediata": 6
+    }
+  },
+  "TibuPueblos": {
+    "cantidadInspGeneral": [
+      {
+        "semana_1": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_2": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_3": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_4": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_5": {
+          "dias": 3,
+          "cantidad": 20
+        }
+      },
+      {
+        "totales": 180
+      }
+    ],
+    "cantidadInspEjecutadas": 64,
+    "atentosEjecutado": 0,
+    "NoConformidades": 0,
+    "NoConformidaEstados": [
+      {
+        "Inspector": "MIRYAM  SIERRA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "DEMIAN YEFREY CORRALES PABON",
+        "Description": "Gorra la perdio sábado ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45482.5244328704,
+        "FechaEspCorrecion": 45483
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "CARLOS FERNANDO DUARTE RUBIO",
+        "Description": "En la inspección de seguridad, se evidencia direccional derecho delantero del vehículo en mal estado. al accionarlo, este no enciende ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45486.61,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "ventilador en mal estado no funciona ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7368634259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "mesa en mal estádo",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7378009259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JUNIOR SCHMITH WILCHES GONZALEZ",
+        "Description": "en inspeccion de seguridad, se evidencia al trabajador, omitiendo el uso de la pava, al preguntar por ella, manifiesta que la dejo en la casa.",
+        "Impacto": "Alto",
+        "FechaInspNC": 45491.6160069444,
+        "FechaEspCorrecion": 45504
+      }
+    ],
+    "constInsp": 6.66,
+    "IdSupervisor": 1090404495,
+    "IdAuxSupervisor": 13473944,
+    "TipoInspeccion": {
+      "16 - Insp Seguridad Lec-Rep Energía": {
+        "Cantidad": 48
+      },
+      "17 - Insp Calidad Lec-Rep Energía": {
+        "Cantidad": 5
+      }
+    },
+    "FormaInspeccion": {
+      "Posterior": 0,
+      "Inmediata": 53
+    }
+  },
+  "Tibu": {
+    "cantidadInspGeneral": [
+      {
+        "semana_1": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_2": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_3": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_4": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_5": {
+          "dias": 3,
+          "cantidad": 20
+        }
+      },
+      {
+        "totales": 180
+      }
+    ],
+    "cantidadInspEjecutadas": 53,
+    "atentosEjecutado": 0,
+    "NoConformidades": 0,
+    "NoConformidaEstados": [
+      {
+        "Inspector": "MIRYAM  SIERRA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "DEMIAN YEFREY CORRALES PABON",
+        "Description": "Gorra la perdio sábado ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45482.5244328704,
+        "FechaEspCorrecion": 45483
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "CARLOS FERNANDO DUARTE RUBIO",
+        "Description": "En la inspección de seguridad, se evidencia direccional derecho delantero del vehículo en mal estado. al accionarlo, este no enciende ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45486.61,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "ventilador en mal estado no funciona ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7368634259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "mesa en mal estádo",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7378009259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JUNIOR SCHMITH WILCHES GONZALEZ",
+        "Description": "en inspeccion de seguridad, se evidencia al trabajador, omitiendo el uso de la pava, al preguntar por ella, manifiesta que la dejo en la casa.",
+        "Impacto": "Alto",
+        "FechaInspNC": 45491.6160069444,
+        "FechaEspCorrecion": 45504
+      }
+    ],
+    "constInsp": 6.66,
+    "IdSupervisor": 88247516,
+    "IdAuxSupervisor": 13473944,
+    "TipoInspeccion": {
+      "19 - Insp Seguridad SCR Energía": {
+        "Cantidad": 6
+      },
+      "20 - Insp Calidad SCR Energía": {
+        "Cantidad": 8
+      },
+      "16 - Insp Seguridad Lec-Rep Energía": {
+        "Cantidad": 13
+      },
+      "17 - Insp Calidad Lec-Rep Energía": {
+        "Cantidad": 13
+      },
+      "18 - Insp Ambiental Lec-Rep Energía": {
+        "Cantidad": 3
+      },
+      "21 - Insp Ambiental SCR Energía": {
+        "Cantidad": 2
+      }
+    },
+    "FormaInspeccion": {
+      "Posterior": 0,
+      "Inmediata": 45
+    }
+  },
+  "Aguachica": {
+    "cantidadInspGeneral": [
+      {
+        "semana_1": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_2": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_3": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_4": {
+          "dias": 6,
+          "cantidad": 40
+        }
+      },
+      {
+        "semana_5": {
+          "dias": 3,
+          "cantidad": 20
+        }
+      },
+      {
+        "totales": 180
+      }
+    ],
+    "cantidadInspEjecutadas": 30,
+    "atentosEjecutado": 0,
+    "NoConformidades": 0,
+    "NoConformidaEstados": [
+      {
+        "Inspector": "MIRYAM  SIERRA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "DEMIAN YEFREY CORRALES PABON",
+        "Description": "Gorra la perdio sábado ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45482.5244328704,
+        "FechaEspCorrecion": 45483
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "CARLOS FERNANDO DUARTE RUBIO",
+        "Description": "En la inspección de seguridad, se evidencia direccional derecho delantero del vehículo en mal estado. al accionarlo, este no enciende ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45486.61,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "ventilador en mal estado no funciona ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7368634259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "mesa en mal estádo",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7378009259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JUNIOR SCHMITH WILCHES GONZALEZ",
+        "Description": "en inspeccion de seguridad, se evidencia al trabajador, omitiendo el uso de la pava, al preguntar por ella, manifiesta que la dejo en la casa.",
+        "Impacto": "Alto",
+        "FechaInspNC": 45491.6160069444,
+        "FechaEspCorrecion": 45504
+      }
+    ],
+    "constInsp": 6.66,
+    "IdSupervisor": 18926009,
+    "IdAuxSupervisor": 1064841699,
+    "TipoInspeccion": {
+      "19 - Insp Seguridad SCR Energía": {
+        "Cantidad": 1
+      },
+      "16 - Insp Seguridad Lec-Rep Energía": {
+        "Cantidad": 15
+      },
+      "17 - Insp Calidad Lec-Rep Energía": {
+        "Cantidad": 12
+      },
+      "20 - Insp Calidad SCR Energía": {
+        "Cantidad": 2
+      }
+    },
+    "FormaInspeccion": {
+      "Posterior": 0,
+      "Inmediata": 30
+    }
+  },
+  "CucutaSsta": {
+    "cantidadInspGeneral": [
+      {
+        "semana_1": {
+          "dias": 6,
+          "cantidad": 45
+        }
+      },
+      {
+        "semana_2": {
+          "dias": 6,
+          "cantidad": 45
+        }
+      },
+      {
+        "semana_3": {
+          "dias": 6,
+          "cantidad": 45
+        }
+      },
+      {
+        "semana_4": {
+          "dias": 6,
+          "cantidad": 45
+        }
+      },
+      {
+        "semana_5": {
+          "dias": 3,
+          "cantidad": 23
+        }
+      },
+      {
+        "totales": 203
+      }
+    ],
+    "cantidadInspEjecutadas": 157,
+    "atentosEjecutado": 1,
+    "NoConformidades": 11,
+    "NoConformidaEstados": [
+      {
+        "Inspector": "MIRYAM  SIERRA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "DEMIAN YEFREY CORRALES PABON",
+        "Description": "Gorra la perdio sábado ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45482.5244328704,
+        "FechaEspCorrecion": 45483
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "CARLOS FERNANDO DUARTE RUBIO",
+        "Description": "En la inspección de seguridad, se evidencia direccional derecho delantero del vehículo en mal estado. al accionarlo, este no enciende ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45486.61,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "ventilador en mal estado no funciona ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7368634259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "mesa en mal estádo",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7378009259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JUNIOR SCHMITH WILCHES GONZALEZ",
+        "Description": "en inspeccion de seguridad, se evidencia al trabajador, omitiendo el uso de la pava, al preguntar por ella, manifiesta que la dejo en la casa.",
+        "Impacto": "Alto",
+        "FechaInspNC": 45491.6160069444,
+        "FechaEspCorrecion": 45504
+      }
+    ],
+    "constInsp": 7.54,
+    "IdSupervisor": 1093736192,
+    "IdAuxSupervisor": 1092352956,
+    "TipoInspeccion": {
+      "19 - Insp Seguridad SCR Energía": {
+        "Cantidad": 31
+      },
+      "21 - Insp Ambiental SCR Energía": {
+        "Cantidad": 21
+      },
+      "16 - Insp Seguridad Lec-Rep Energía": {
+        "Cantidad": 84
+      },
+      "18 - Insp Ambiental Lec-Rep Energía": {
+        "Cantidad": 21
+      }
+    },
+    "FormaInspeccion": {
+      "Posterior": 1,
+      "Inmediata": 156
+    }
+  },
+  "AguachicaSsta": {
+    "cantidadInspGeneral": [
+      {
+        "semana_1": {
+          "dias": 6,
+          "cantidad": 26
+        }
+      },
+      {
+        "semana_2": {
+          "dias": 6,
+          "cantidad": 26
+        }
+      },
+      {
+        "semana_3": {
+          "dias": 6,
+          "cantidad": 26
+        }
+      },
+      {
+        "semana_4": {
+          "dias": 6,
+          "cantidad": 26
+        }
+      },
+      {
+        "semana_5": {
+          "dias": 3,
+          "cantidad": 13
+        }
+      },
+      {
+        "totales": 117
+      }
+    ],
+    "cantidadInspEjecutadas": 76,
+    "atentosEjecutado": 1,
+    "NoConformidades": 5,
+    "NoConformidaEstados": [
+      {
+        "Inspector": "MIRYAM  SIERRA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "DEMIAN YEFREY CORRALES PABON",
+        "Description": "Gorra la perdio sábado ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45482.5244328704,
+        "FechaEspCorrecion": 45483
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "CARLOS FERNANDO DUARTE RUBIO",
+        "Description": "En la inspección de seguridad, se evidencia direccional derecho delantero del vehículo en mal estado. al accionarlo, este no enciende ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45486.61,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "ventilador en mal estado no funciona ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7368634259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "mesa en mal estádo",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7378009259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JUNIOR SCHMITH WILCHES GONZALEZ",
+        "Description": "en inspeccion de seguridad, se evidencia al trabajador, omitiendo el uso de la pava, al preguntar por ella, manifiesta que la dejo en la casa.",
+        "Impacto": "Alto",
+        "FechaInspNC": 45491.6160069444,
+        "FechaEspCorrecion": 45504
+      }
+    ],
+    "constInsp": 4.4,
+    "IdSupervisor": 1065874827,
+    "IdAuxSupervisor": 0,
+    "TipoInspeccion": {
+      "19 - Insp Seguridad SCR Energía": {
+        "Cantidad": 15
+      },
+      "16 - Insp Seguridad Lec-Rep Energía": {
+        "Cantidad": 59
+      },
+      "21 - Insp Ambiental SCR Energía": {
+        "Cantidad": 2
+      }
+    },
+    "FormaInspeccion": {
+      "Posterior": 0,
+      "Inmediata": 76
+    }
+  },
+  "CucutaAdmon": {
+    "cantidadInspGeneral": [
+      {
+        "semana_1": {
+          "dias": 6,
+          "cantidad": 30
+        }
+      },
+      {
+        "semana_2": {
+          "dias": 6,
+          "cantidad": 30
+        }
+      },
+      {
+        "semana_3": {
+          "dias": 6,
+          "cantidad": 30
+        }
+      },
+      {
+        "semana_4": {
+          "dias": 6,
+          "cantidad": 30
+        }
+      },
+      {
+        "semana_5": {
+          "dias": 3,
+          "cantidad": 15
+        }
+      },
+      {
+        "totales": 135
+      }
+    ],
+    "cantidadInspEjecutadas": 1,
+    "atentosEjecutado": 0,
+    "NoConformidades": 0,
+    "NoConformidaEstados": [
+      {
+        "Inspector": "MIRYAM  SIERRA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "DEMIAN YEFREY CORRALES PABON",
+        "Description": "Gorra la perdio sábado ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45482.5244328704,
+        "FechaEspCorrecion": 45483
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "CARLOS FERNANDO DUARTE RUBIO",
+        "Description": "En la inspección de seguridad, se evidencia direccional derecho delantero del vehículo en mal estado. al accionarlo, este no enciende ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45486.61,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "ventilador en mal estado no funciona ",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7368634259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "KAREN PAOLA PACHECO CARVAJALINO",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JOSE\r\n ALEXAND\r\n NOVOA\r\n BALLESTEROS\r\n",
+        "Description": "mesa en mal estádo",
+        "Impacto": "Alto",
+        "FechaInspNC": 45490.7378009259,
+        "FechaEspCorrecion": 45504
+      },
+      {
+        "Inspector": "ANDERSON ORTIZ CORREA",
+        "Estado": "Abierta sin corrección",
+        "Operario": "JUNIOR SCHMITH WILCHES GONZALEZ",
+        "Description": "en inspeccion de seguridad, se evidencia al trabajador, omitiendo el uso de la pava, al preguntar por ella, manifiesta que la dejo en la casa.",
+        "Impacto": "Alto",
+        "FechaInspNC": 45491.6160069444,
+        "FechaEspCorrecion": 45504
+      }
+    ],
+    "constInsp": 4.99,
+    "IdSupervisor": 88273237,
+    "IdAuxSupervisor": 60300528,
+    "TipoInspeccion": {
+      "19 - Insp Seguridad SCR Energía": {
+        "Cantidad": 1
+      }
+    },
+    "FormaInspeccion": {
+      "Posterior": 0,
+      "Inmediata": 1
+    },
+    "Coordinacion": 1090391002
+  },
+  "TipoInspeccion": {},
+  "FormaInspeccion": {}
+}

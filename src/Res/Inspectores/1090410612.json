@@ -1,0 +1,457 @@
+{
+  "Nombre": "ESTUPIÑAN ESTEBAN JONATHAN ALEXANDER",
+  "Cedula": 1090410612,
+  "Rol": "Supervisor",
+  "ProyectoSede": "CUCUTA",
+  "Proceso": "CUCUTA-FACTURACION",
+  "CantidadOperativa": 40,
+  "Cantidad_Inspecciones": 60,
+  "Cantidad_InpsPendiente": 36,
+  "Cantidad_NoConformidades": 0,
+  "OperarioConNocomformidad": [],
+  "Cantidad_Atentos": 0,
+  "OperarioConAtentos": [],
+  "Cantidad_Inpeccionados": 24,
+  "NombreInsPeccionados": [
+    {
+      "Nombre": "YEISON ENRIQUE BOTELLO CORONEL"
+    },
+    {
+      "Nombre": "YEISON ENRIQUE BOTELLO CORONEL"
+    },
+    {
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO"
+    },
+    {
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO"
+    },
+    {
+      "Nombre": "YESID ALFONSO ALVAREZ LIZCANO"
+    },
+    {
+      "Nombre": "KEWIN JESUS CAMARGO GOMEZ"
+    },
+    {
+      "Nombre": "KEWIN JESUS CAMARGO GOMEZ"
+    },
+    {
+      "Nombre": "EDGAR PEREZ MONTAÑEZ"
+    },
+    {
+      "Nombre": "EDGAR PEREZ MONTAÑEZ"
+    },
+    {
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ"
+    },
+    {
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO"
+    },
+    {
+      "Nombre": "KEWIN JESUS CAMARGO GOMEZ"
+    },
+    {
+      "Nombre": "OMAR JOSE NAVARRO ESCALANTE"
+    },
+    {
+      "Nombre": "CARLOS JOSE YEPES ACOSTA"
+    },
+    {
+      "Nombre": "LUIS ERASMO ORTIZ LEAL"
+    },
+    {
+      "Nombre": "LUIS ERASMO ORTIZ LEAL"
+    },
+    {
+      "Nombre": "EDGAR PEREZ MONTAÑEZ"
+    },
+    {
+      "Nombre": "EDGAR PEREZ MONTAÑEZ"
+    },
+    {
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ"
+    },
+    {
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ"
+    },
+    {
+      "Nombre": "MIGUEL ANGEL CELIS AILLON"
+    },
+    {
+      "Nombre": "JEREMIAS YEPES REGALADO "
+    },
+    {
+      "Nombre": "JEREMIAS YEPES REGALADO "
+    },
+    {
+      "Nombre": "JEREMIAS YEPES REGALADO "
+    }
+  ],
+  "Nombre_PtePorInspecciones": [
+    {
+      "Nombre": "RODRIGUEZ QUINTERO EDUARDO",
+      "Proceso": "CUCUTA-INTERVENTOR"
+    },
+    {
+      "Nombre": "DUARTE MARTINEZ NELLY PATRICIA",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "RODRIGUEZ QUINTERO MARIA ISABEL",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "HERNANDEZ BADILLO NANCY",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "LOPEZ PEREZ FRANKLIN ",
+      "Proceso": "CUCUTA-DRASTICOS"
+    },
+    {
+      "Nombre": "MENDOZA PARDO EDGAR YOHEDMAR",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "PEREZ PEREZ CIRO",
+      "Proceso": "ADMIN"
+    },
+    {
+      "Nombre": "ORTEGA ORTIZ JULIETH NATALIA",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "MONTAÑEZ ROJAS ELIANA PATRICIA",
+      "Proceso": "CUCUTA-FACTURACION"
+    },
+    {
+      "Nombre": "JAIMES JAIMES EDSON ",
+      "Proceso": "CUCUTA-DRASTICOS"
+    },
+    {
+      "Nombre": "MEDINA SAAVEDRA DIEGO ANDRES",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "SUAREZ CABEZA MARCOS FIDEL",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "MARQUEZ VALENCIA CARLOS DAVID",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "GARCIA CONTRERAS CESAR EDUARDO",
+      "Proceso": "CUCUTA"
+    },
+    {
+      "Nombre": "ORTEGA NAVARRO OSMEL",
+      "Proceso": "CUCUTA"
+    },
+    {
+      "Nombre": "MENDOZA CASTRO JORMAN DAMIAN",
+      "Proceso": "CUCUTA-FACTURACION"
+    },
+    {
+      "Nombre": "PEÑARANDA OMEARA IVAN ANDRES ",
+      "Proceso": "CUCUTA-FACTURACION"
+    },
+    {
+      "Nombre": "GALLO SILVA ANDRES FELIPE",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "ORTIZ CORREA ANDERSON",
+      "Proceso": "CUCUTA-SSTA"
+    },
+    {
+      "Nombre": "GRISALES AILLON JHON ALEXANDER",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "SIERRA JAIMES MIRYAM JOHANA",
+      "Proceso": "CUCUTA-SSTA"
+    },
+    {
+      "Nombre": "ACEVEDO ORTIZ CESAR AUGUSTO",
+      "Proceso": "CUCUTA-FACTURACION"
+    }
+  ],
+  "Cantidad_PtePorInspecciones": 22,
+  "CantidaInspAnterior": 1,
+  "NombreInspAnterior": [
+    {
+      "Nombre": "KEWIN JESUS CAMARGO GOMEZ",
+      "Proceso": "Conforme"
+    }
+  ],
+  "CantidadInspPosterior": 23,
+  "NombreInspPosterior": [
+    {
+      "Nombre": "YEISON ENRIQUE BOTELLO CORONEL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "YEISON ENRIQUE BOTELLO CORONEL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "YESID ALFONSO ALVAREZ LIZCANO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "KEWIN JESUS CAMARGO GOMEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDGAR PEREZ MONTAÑEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDGAR PEREZ MONTAÑEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "KEWIN JESUS CAMARGO GOMEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "OMAR JOSE NAVARRO ESCALANTE",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS JOSE YEPES ACOSTA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "LUIS ERASMO ORTIZ LEAL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "LUIS ERASMO ORTIZ LEAL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDGAR PEREZ MONTAÑEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDGAR PEREZ MONTAÑEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "MIGUEL ANGEL CELIS AILLON",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JEREMIAS YEPES REGALADO ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JEREMIAS YEPES REGALADO ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JEREMIAS YEPES REGALADO ",
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "MotivoDeInspeccion": [
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "YEISON ENRIQUE BOTELLO CORONEL",
+      "FechaInicio": 45481.4928819444,
+      "FechaFinal": 45481.4973842593,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "YEISON ENRIQUE BOTELLO CORONEL",
+      "FechaInicio": 45481.4974884259,
+      "FechaFinal": 45481.5034143518,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO",
+      "FechaInicio": 45481.5156597222,
+      "FechaFinal": 45481.5185763889,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO",
+      "FechaInicio": 45481.5187962963,
+      "FechaFinal": 45481.521412037,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "YESID ALFONSO ALVAREZ LIZCANO",
+      "FechaInicio": 45481.6064930556,
+      "FechaFinal": 45481.6082986111,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "KEWIN JESUS CAMARGO GOMEZ",
+      "FechaInicio": 45482.4179166667,
+      "FechaFinal": 45482.4206944444,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "KEWIN JESUS CAMARGO GOMEZ",
+      "FechaInicio": 45482.4207523148,
+      "FechaFinal": 45482.4293171296,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "EDGAR PEREZ MONTAÑEZ",
+      "FechaInicio": 45482.439849537,
+      "FechaFinal": 45482.4421296296,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "EDGAR PEREZ MONTAÑEZ",
+      "FechaInicio": 45482.4422222222,
+      "FechaFinal": 45482.4440972222,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ",
+      "FechaInicio": 45482.4484027778,
+      "FechaFinal": 45482.4623032407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "MIGUEL DAVID GAITAN LAZARO",
+      "FechaInicio": 45482.4726041667,
+      "FechaFinal": 45482.4766782407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "KEWIN JESUS CAMARGO GOMEZ",
+      "FechaInicio": 45483.4753240741,
+      "FechaFinal": 45483.4781365741,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "OMAR JOSE NAVARRO ESCALANTE",
+      "FechaInicio": 45483.4788078704,
+      "FechaFinal": 45483.486400463,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "CARLOS JOSE YEPES ACOSTA",
+      "FechaInicio": 45488.3846759259,
+      "FechaFinal": 45488.3885416667,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "LUIS ERASMO ORTIZ LEAL",
+      "FechaInicio": 45488.3997106481,
+      "FechaFinal": 45488.4022569444,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "LUIS ERASMO ORTIZ LEAL",
+      "FechaInicio": 45488.4023263889,
+      "FechaFinal": 45488.4072569444,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "EDGAR PEREZ MONTAÑEZ",
+      "FechaInicio": 45488.4252083333,
+      "FechaFinal": 45488.4279050926,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "EDGAR PEREZ MONTAÑEZ",
+      "FechaInicio": 45488.4282291667,
+      "FechaFinal": 45488.4301273148,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ",
+      "FechaInicio": 45488.4328935185,
+      "FechaFinal": 45488.4454861111,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ",
+      "FechaInicio": 45488.4455787037,
+      "FechaFinal": 45488.4469444444,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "MIGUEL ANGEL CELIS AILLON",
+      "FechaInicio": 45489.4853240741,
+      "FechaFinal": 45489.4941435185,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JEREMIAS YEPES REGALADO ",
+      "FechaInicio": 45489.4941898148,
+      "FechaFinal": 45489.5104282407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JEREMIAS YEPES REGALADO ",
+      "FechaInicio": 45491.4811574074,
+      "FechaFinal": 45491.493587963,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JEREMIAS YEPES REGALADO ",
+      "FechaInicio": 45491.4936458333,
+      "FechaFinal": 45491.4960300926,
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "InspPorHora": {
+    "TipoDocumento": "",
+    "CantidadTipoDocumento": 0,
+    "HoraTipoDocumento": ""
+  }
+}

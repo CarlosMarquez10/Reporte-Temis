@@ -1,0 +1,66 @@
+{
+  "Nombre": "RODRIGUEZ QUINTERO MARIA ISABEL",
+  "Cedula": 60300528,
+  "Rol": "Auxiliar-Supervisor",
+  "ProyectoSede": "AGUACHICA",
+  "Proceso": "CUCUTA-ADMON",
+  "CantidadOperativa": 6,
+  "Cantidad_Inspecciones": 60,
+  "Cantidad_InpsPendiente": 59,
+  "Cantidad_NoConformidades": 0,
+  "OperarioConNocomformidad": [],
+  "Cantidad_Atentos": 0,
+  "OperarioConAtentos": [],
+  "Cantidad_Inpeccionados": 1,
+  "NombreInsPeccionados": [
+    {
+      "Nombre": "EDINSON GEOVANY CARRASCAL CARDENAS"
+    }
+  ],
+  "Nombre_PtePorInspecciones": [
+    {
+      "Nombre": "PAEZ VACCA EDIL",
+      "Proceso": "AGUACHICA"
+    },
+    {
+      "Nombre": "NORIEGA DUARTE CRISTIAN LEONARDO ",
+      "Proceso": "AGUACHICA"
+    },
+    {
+      "Nombre": "BAYONA GONGORA DAGOBERTO ",
+      "Proceso": "AGUACHICA"
+    },
+    {
+      "Nombre": "PACHECO CARVAJALINO KAREN PAOLA",
+      "Proceso": "AGUACHICA"
+    },
+    {
+      "Nombre": "QUIN RIOS JONNATHAN ANDRES",
+      "Proceso": "AGUACHICA"
+    }
+  ],
+  "Cantidad_PtePorInspecciones": 5,
+  "CantidaInspAnterior": 0,
+  "NombreInspAnterior": [],
+  "CantidadInspPosterior": 1,
+  "NombreInspPosterior": [
+    {
+      "Nombre": "EDINSON GEOVANY CARRASCAL CARDENAS",
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "MotivoDeInspeccion": [
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "EDINSON GEOVANY CARRASCAL CARDENAS",
+      "FechaInicio": 45489.4676157407,
+      "FechaFinal": 45489.4790625,
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "InspPorHora": {
+    "TipoDocumento": "",
+    "CantidadTipoDocumento": 0,
+    "HoraTipoDocumento": ""
+  }
+}

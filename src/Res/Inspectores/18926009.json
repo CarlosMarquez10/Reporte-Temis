@@ -1,0 +1,472 @@
+{
+  "Nombre": "NOVOA BALLESTEROS JOSE ALEXANDER",
+  "Cedula": 18926009,
+  "Rol": "Supervisor",
+  "ProyectoSede": "AGUACHICA",
+  "Proceso": "AGUACHICA",
+  "CantidadOperativa": 21,
+  "Cantidad_Inspecciones": 60,
+  "Cantidad_InpsPendiente": 30,
+  "Cantidad_NoConformidades": 0,
+  "OperarioConNocomformidad": [],
+  "Cantidad_Atentos": 0,
+  "OperarioConAtentos": [],
+  "Cantidad_Inpeccionados": 30,
+  "NombreInsPeccionados": [
+    {
+      "Nombre": "ALBEIRO VEGA GOMEZ"
+    },
+    {
+      "Nombre": "JUAN CARLOS VILLEGAS OROZCO"
+    },
+    {
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ"
+    },
+    {
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ"
+    },
+    {
+      "Nombre": "RUBEL ANGEL GUTIERREZ RANGEL"
+    },
+    {
+      "Nombre": "JHAWI MAURICIO BOHORQUEZ ROA"
+    },
+    {
+      "Nombre": "JOSE DAVID CASTRO ROBAYO"
+    },
+    {
+      "Nombre": "JHORDAN NICOLAS ARIZA DE LA HOZ"
+    },
+    {
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ"
+    },
+    {
+      "Nombre": "JOSE DAVID CASTRO ROBAYO"
+    },
+    {
+      "Nombre": "JOSE DAVID CASTRO ROBAYO"
+    },
+    {
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ"
+    },
+    {
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ"
+    },
+    {
+      "Nombre": "JHORDAN NICOLAS ARIZA DE LA HOZ"
+    },
+    {
+      "Nombre": "JHAWI MAURICIO BOHORQUEZ ROA"
+    },
+    {
+      "Nombre": "JORGE LUIS PIZARRO NAVARRO"
+    },
+    {
+      "Nombre": "FABIAN ALONSO BUELVAS AMARIS"
+    },
+    {
+      "Nombre": "JHORDAN NICOLAS ARIZA DE LA HOZ"
+    },
+    {
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ"
+    },
+    {
+      "Nombre": "JOSE DAVID CASTRO ROBAYO"
+    },
+    {
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ"
+    },
+    {
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ"
+    },
+    {
+      "Nombre": "JOSE LUIS PEREZ SANCHEZ"
+    },
+    {
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ"
+    },
+    {
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ"
+    },
+    {
+      "Nombre": "EDWARD MENESES MENESES"
+    },
+    {
+      "Nombre": "ALBEIRO VEGA GOMEZ"
+    },
+    {
+      "Nombre": "RUBEL ANGEL GUTIERREZ RANGEL"
+    },
+    {
+      "Nombre": "MAURICIO INFANTE SANCHEZ"
+    },
+    {
+      "Nombre": "HAROLD JOSE GARCIA JULIO"
+    }
+  ],
+  "Nombre_PtePorInspecciones": [
+    {
+      "Nombre": "PAEZ VACCA EDIL",
+      "Proceso": "AGUACHICA"
+    },
+    {
+      "Nombre": "NORIEGA DUARTE CRISTIAN LEONARDO ",
+      "Proceso": "AGUACHICA"
+    },
+    {
+      "Nombre": "BAYONA GONGORA DAGOBERTO ",
+      "Proceso": "AGUACHICA"
+    },
+    {
+      "Nombre": "PACHECO CARVAJALINO KAREN PAOLA",
+      "Proceso": "AGUACHICA"
+    },
+    {
+      "Nombre": "QUIN RIOS JONNATHAN ANDRES",
+      "Proceso": "AGUACHICA"
+    }
+  ],
+  "Cantidad_PtePorInspecciones": 5,
+  "CantidaInspAnterior": 0,
+  "NombreInspAnterior": [],
+  "CantidadInspPosterior": 30,
+  "NombreInspPosterior": [
+    {
+      "Nombre": "ALBEIRO VEGA GOMEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUAN CARLOS VILLEGAS OROZCO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "RUBEL ANGEL GUTIERREZ RANGEL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JHAWI MAURICIO BOHORQUEZ ROA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JOSE DAVID CASTRO ROBAYO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JHORDAN NICOLAS ARIZA DE LA HOZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JOSE DAVID CASTRO ROBAYO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JOSE DAVID CASTRO ROBAYO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JHORDAN NICOLAS ARIZA DE LA HOZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JHAWI MAURICIO BOHORQUEZ ROA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JORGE LUIS PIZARRO NAVARRO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "FABIAN ALONSO BUELVAS AMARIS",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JHORDAN NICOLAS ARIZA DE LA HOZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JOSE DAVID CASTRO ROBAYO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JOSE LUIS PEREZ SANCHEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDWARD MENESES MENESES",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ALBEIRO VEGA GOMEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "RUBEL ANGEL GUTIERREZ RANGEL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "MAURICIO INFANTE SANCHEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HAROLD JOSE GARCIA JULIO",
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "MotivoDeInspeccion": [
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "ALBEIRO VEGA GOMEZ",
+      "FechaInicio": 45475.4890393519,
+      "FechaFinal": 45475.5007407407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JUAN CARLOS VILLEGAS OROZCO",
+      "FechaInicio": 45475.5081944444,
+      "FechaFinal": 45475.5159143519,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ",
+      "FechaInicio": 45475.5199537037,
+      "FechaFinal": 45475.5266203704,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ",
+      "FechaInicio": 45475.5387731481,
+      "FechaFinal": 45475.5413657407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "RUBEL ANGEL GUTIERREZ RANGEL",
+      "FechaInicio": 45476.4855902778,
+      "FechaFinal": 45476.4899884259,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JHAWI MAURICIO BOHORQUEZ ROA",
+      "FechaInicio": 45476.493599537,
+      "FechaFinal": 45476.4984375,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JOSE DAVID CASTRO ROBAYO",
+      "FechaInicio": 45476.5015856481,
+      "FechaFinal": 45476.5049421296,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JHORDAN NICOLAS ARIZA DE LA HOZ",
+      "FechaInicio": 45476.5095138889,
+      "FechaFinal": 45476.515474537,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ",
+      "FechaInicio": 45478.4526388889,
+      "FechaFinal": 45478.4756365741,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JOSE DAVID CASTRO ROBAYO",
+      "FechaInicio": 45478.4660532407,
+      "FechaFinal": 45478.4763194444,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JOSE DAVID CASTRO ROBAYO",
+      "FechaInicio": 45478.4686689815,
+      "FechaFinal": 45478.4749305556,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ",
+      "FechaInicio": 45478.4857523148,
+      "FechaFinal": 45478.4959953704,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ",
+      "FechaInicio": 45478.4913425926,
+      "FechaFinal": 45478.4946527778,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JHORDAN NICOLAS ARIZA DE LA HOZ",
+      "FechaInicio": 45481.4602893519,
+      "FechaFinal": 45481.4680671296,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JHAWI MAURICIO BOHORQUEZ ROA",
+      "FechaInicio": 45481.4814351852,
+      "FechaFinal": 45481.4970833333,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JORGE LUIS PIZARRO NAVARRO",
+      "FechaInicio": 45481.4971180556,
+      "FechaFinal": 45481.5024305556,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "FABIAN ALONSO BUELVAS AMARIS",
+      "FechaInicio": 45488.5556018519,
+      "FechaFinal": 45488.570150463,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JHORDAN NICOLAS ARIZA DE LA HOZ",
+      "FechaInicio": 45489.4623263889,
+      "FechaFinal": 45489.4652199074,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ",
+      "FechaInicio": 45489.4680671296,
+      "FechaFinal": 45489.4735416667,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JOSE DAVID CASTRO ROBAYO",
+      "FechaInicio": 45489.4824884259,
+      "FechaFinal": 45489.4859606481,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ",
+      "FechaInicio": 45489.4902083333,
+      "FechaFinal": 45489.4988657407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ",
+      "FechaInicio": 45489.493125,
+      "FechaFinal": 45489.4978125,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JOSE LUIS PEREZ SANCHEZ",
+      "FechaInicio": 45489.5081365741,
+      "FechaFinal": 45489.5124768519,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "CARLOS ALIRIO SANCHEZ GOMEZ",
+      "FechaInicio": 45490.4721990741,
+      "FechaFinal": 45490.4800347222,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "HERMES JESUS ORTIZ BERMUDEZ",
+      "FechaInicio": 45490.4916203704,
+      "FechaFinal": 45490.4986111111,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "EDWARD MENESES MENESES",
+      "FechaInicio": 45490.5063657407,
+      "FechaFinal": 45490.5102546296,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "ALBEIRO VEGA GOMEZ",
+      "FechaInicio": 45495.4454050926,
+      "FechaFinal": 45495.4507060185,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "RUBEL ANGEL GUTIERREZ RANGEL",
+      "FechaInicio": 45495.4619097222,
+      "FechaFinal": 45495.4668981481,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "20 - Insp Calidad SCR Energía",
+      "Nombre": "MAURICIO INFANTE SANCHEZ",
+      "FechaInicio": 45495.4937962963,
+      "FechaFinal": 45495.5020949074,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "20 - Insp Calidad SCR Energía",
+      "Nombre": "HAROLD JOSE GARCIA JULIO",
+      "FechaInicio": 45495.4937962963,
+      "FechaFinal": 45495.5020949074,
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "InspPorHora": {
+    "TipoDocumento": "",
+    "CantidadTipoDocumento": 0,
+    "HoraTipoDocumento": ""
+  }
+}

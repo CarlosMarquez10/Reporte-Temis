@@ -1,0 +1,674 @@
+{
+  "Nombre": "TRUJILLO CONTRERAS EUDIN GIOVANNI",
+  "Cedula": 1090404495,
+  "Rol": "Supervisor",
+  "ProyectoSede": "TIBU",
+  "Proceso": "TIBU",
+  "CantidadOperativa": 10,
+  "Cantidad_Inspecciones": 60,
+  "Cantidad_InpsPendiente": 15,
+  "Cantidad_NoConformidades": 0,
+  "OperarioConNocomformidad": [],
+  "Cantidad_Atentos": 0,
+  "OperarioConAtentos": [],
+  "Cantidad_Inpeccionados": 45,
+  "NombreInsPeccionados": [
+    {
+      "Nombre": "RAMON ANTONIO TORRES SERNA"
+    },
+    {
+      "Nombre": "RAMON ANTONIO TORRES SERNA"
+    },
+    {
+      "Nombre": "HERLEX DUVAN SANCHEZ JAIMES"
+    },
+    {
+      "Nombre": "HERLEX DUVAN SANCHEZ JAIMES"
+    },
+    {
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ"
+    },
+    {
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ"
+    },
+    {
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ"
+    },
+    {
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ"
+    },
+    {
+      "Nombre": "CARLOS JOSE YEPES ACOSTA"
+    },
+    {
+      "Nombre": "CARLOS JOSE YEPES ACOSTA"
+    },
+    {
+      "Nombre": "CARLOS FERNANDO DUARTE RUBIO"
+    },
+    {
+      "Nombre": "EDGAR VEGA CASTRO"
+    },
+    {
+      "Nombre": "CARLOS FERNANDO DUARTE RUBIO"
+    },
+    {
+      "Nombre": "EDGAR VEGA CASTRO"
+    },
+    {
+      "Nombre": "LESTY MARIA CORDOBA HERNANDEZ"
+    },
+    {
+      "Nombre": "LESTY MARIA CORDOBA HERNANDEZ"
+    },
+    {
+      "Nombre": "YAIR ORLANDO YAÑEZ CARDENAS"
+    },
+    {
+      "Nombre": "YAIR ORLANDO YAÑEZ CARDENAS"
+    },
+    {
+      "Nombre": "JUAN CARLOS CALDERON MONCADA"
+    },
+    {
+      "Nombre": "JUAN CARLOS CALDERON MONCADA"
+    },
+    {
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL"
+    },
+    {
+      "Nombre": "JUAN CARLOS CALDERON MONCADA"
+    },
+    {
+      "Nombre": "JORGE ELIECER ESLAVA CARVAJAL"
+    },
+    {
+      "Nombre": "JORGE ELIECER ESLAVA CARVAJAL"
+    },
+    {
+      "Nombre": "CARLOS JAVIER VERA GARCIA"
+    },
+    {
+      "Nombre": "CARLOS JAVIER VERA GARCIA"
+    },
+    {
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL"
+    },
+    {
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL"
+    },
+    {
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA"
+    },
+    {
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA"
+    },
+    {
+      "Nombre": "JEAN CARLOS SANTIAGO PARDO"
+    },
+    {
+      "Nombre": "JEAN CARLOS SANTIAGO PARDO"
+    },
+    {
+      "Nombre": "JEAN CARLOS SANTIAGO PARDO"
+    },
+    {
+      "Nombre": "ROBINSON DANIEL ORTEGA ROJAS"
+    },
+    {
+      "Nombre": "ROBINSON DANIEL ORTEGA ROJAS"
+    },
+    {
+      "Nombre": "ROBINSON DANIEL ORTEGA ROJAS"
+    },
+    {
+      "Nombre": "ALEXANDER JULIO HERNANDEZ"
+    },
+    {
+      "Nombre": "ALEXANDER JULIO HERNANDEZ"
+    },
+    {
+      "Nombre": "ALEXANDER JULIO HERNANDEZ"
+    },
+    {
+      "Nombre": "JABES PEREZ ORELLANOS"
+    },
+    {
+      "Nombre": "JABES PEREZ ORELLANOS"
+    },
+    {
+      "Nombre": "JABES PEREZ ORELLANOS"
+    },
+    {
+      "Nombre": "ELKIN ORTIZ PEÑARANDA"
+    },
+    {
+      "Nombre": "ELKIN ORTIZ PEÑARANDA"
+    },
+    {
+      "Nombre": "ELKIN ORTIZ PEÑARANDA"
+    }
+  ],
+  "Nombre_PtePorInspecciones": [
+    {
+      "Nombre": "CARDONA AREVALO IDULFO ",
+      "Proceso": "TIBU"
+    },
+    {
+      "Nombre": "ORTIZ MENDOZA LUIS ALBERTO",
+      "Proceso": "TIBU"
+    },
+    {
+      "Nombre": "CASADIEGOS DURAN YECID ENRIQUE",
+      "Proceso": "TIBU"
+    }
+  ],
+  "Cantidad_PtePorInspecciones": 3,
+  "CantidaInspAnterior": 0,
+  "NombreInspAnterior": [],
+  "CantidadInspPosterior": 45,
+  "NombreInspPosterior": [
+    {
+      "Nombre": "RAMON ANTONIO TORRES SERNA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "RAMON ANTONIO TORRES SERNA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HERLEX DUVAN SANCHEZ JAIMES",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HERLEX DUVAN SANCHEZ JAIMES",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS JOSE YEPES ACOSTA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS JOSE YEPES ACOSTA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS FERNANDO DUARTE RUBIO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDGAR VEGA CASTRO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS FERNANDO DUARTE RUBIO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "EDGAR VEGA CASTRO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "LESTY MARIA CORDOBA HERNANDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "LESTY MARIA CORDOBA HERNANDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "YAIR ORLANDO YAÑEZ CARDENAS",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "YAIR ORLANDO YAÑEZ CARDENAS",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUAN CARLOS CALDERON MONCADA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUAN CARLOS CALDERON MONCADA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JUAN CARLOS CALDERON MONCADA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JORGE ELIECER ESLAVA CARVAJAL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JORGE ELIECER ESLAVA CARVAJAL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS JAVIER VERA GARCIA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "CARLOS JAVIER VERA GARCIA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JEAN CARLOS SANTIAGO PARDO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JEAN CARLOS SANTIAGO PARDO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JEAN CARLOS SANTIAGO PARDO",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ROBINSON DANIEL ORTEGA ROJAS",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ROBINSON DANIEL ORTEGA ROJAS",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ROBINSON DANIEL ORTEGA ROJAS",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ALEXANDER JULIO HERNANDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ALEXANDER JULIO HERNANDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ALEXANDER JULIO HERNANDEZ",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JABES PEREZ ORELLANOS",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JABES PEREZ ORELLANOS",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "JABES PEREZ ORELLANOS",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ELKIN ORTIZ PEÑARANDA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ELKIN ORTIZ PEÑARANDA",
+      "ResultInsp": "Conforme"
+    },
+    {
+      "Nombre": "ELKIN ORTIZ PEÑARANDA",
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "MotivoDeInspeccion": [
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "RAMON ANTONIO TORRES SERNA",
+      "FechaInicio": 45481.5092708333,
+      "FechaFinal": 45481.5518981482,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "20 - Insp Calidad SCR Energía",
+      "Nombre": "RAMON ANTONIO TORRES SERNA",
+      "FechaInicio": 45481.5118171296,
+      "FechaFinal": 45481.563900463,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "HERLEX DUVAN SANCHEZ JAIMES",
+      "FechaInicio": 45482.393599537,
+      "FechaFinal": 45482.6025578704,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "HERLEX DUVAN SANCHEZ JAIMES",
+      "FechaInicio": 45482.3956712963,
+      "FechaFinal": 45482.5806828704,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ",
+      "FechaInicio": 45482.4056365741,
+      "FechaFinal": 45482.6011458333,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JUNIOR SCHMITH WILCHES GONZALEZ",
+      "FechaInicio": 45482.4107407407,
+      "FechaFinal": 45482.5791087963,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ",
+      "FechaInicio": 45482.4176851852,
+      "FechaFinal": 45482.598275463,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "HEUZ STEVEN CARREÑO FLOREZ",
+      "FechaInicio": 45482.4222800926,
+      "FechaFinal": 45482.5758796296,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "CARLOS JOSE YEPES ACOSTA",
+      "FechaInicio": 45482.4294907407,
+      "FechaFinal": 45482.5964236111,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "CARLOS JOSE YEPES ACOSTA",
+      "FechaInicio": 45482.4328703704,
+      "FechaFinal": 45482.5721064815,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "CARLOS FERNANDO DUARTE RUBIO",
+      "FechaInicio": 45482.4576157407,
+      "FechaFinal": 45482.6193402778,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "EDGAR VEGA CASTRO",
+      "FechaInicio": 45482.4576157407,
+      "FechaFinal": 45482.6193402778,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "20 - Insp Calidad SCR Energía",
+      "Nombre": "CARLOS FERNANDO DUARTE RUBIO",
+      "FechaInicio": 45482.468912037,
+      "FechaFinal": 45482.6226157407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "20 - Insp Calidad SCR Energía",
+      "Nombre": "EDGAR VEGA CASTRO",
+      "FechaInicio": 45482.468912037,
+      "FechaFinal": 45482.6226157407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "LESTY MARIA CORDOBA HERNANDEZ",
+      "FechaInicio": 45482.4883680556,
+      "FechaFinal": 45482.5945949074,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "LESTY MARIA CORDOBA HERNANDEZ",
+      "FechaInicio": 45482.4910069444,
+      "FechaFinal": 45482.5670138889,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "YAIR ORLANDO YAÑEZ CARDENAS",
+      "FechaInicio": 45483.3607523148,
+      "FechaFinal": 45483.4020601852,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "YAIR ORLANDO YAÑEZ CARDENAS",
+      "FechaInicio": 45483.3647222222,
+      "FechaFinal": 45483.4057060185,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JUAN CARLOS CALDERON MONCADA",
+      "FechaInicio": 45483.555775463,
+      "FechaFinal": 45483.6148611111,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "20 - Insp Calidad SCR Energía",
+      "Nombre": "JUAN CARLOS CALDERON MONCADA",
+      "FechaInicio": 45483.5617939815,
+      "FechaFinal": 45485.4463425926,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "20 - Insp Calidad SCR Energía",
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL",
+      "FechaInicio": 45483.5617939815,
+      "FechaFinal": 45485.4463425926,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JUAN CARLOS CALDERON MONCADA",
+      "FechaInicio": 45483.5670717593,
+      "FechaFinal": 45483.6164930556,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JORGE ELIECER ESLAVA CARVAJAL",
+      "FechaInicio": 45483.611087963,
+      "FechaFinal": 45483.6511458333,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JORGE ELIECER ESLAVA CARVAJAL",
+      "FechaInicio": 45483.6119097222,
+      "FechaFinal": 45483.6541087963,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "CARLOS JAVIER VERA GARCIA",
+      "FechaInicio": 45485.3399074074,
+      "FechaFinal": 45485.3687731481,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "CARLOS JAVIER VERA GARCIA",
+      "FechaInicio": 45485.3413888889,
+      "FechaFinal": 45485.366412037,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL",
+      "FechaInicio": 45485.4411805556,
+      "FechaFinal": 45485.5184027778,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "20 - Insp Calidad SCR Energía",
+      "Nombre": "DIEGO ANDRES FLOREZ RANGEL",
+      "FechaInicio": 45485.4463541667,
+      "FechaFinal": 45485.5528472222,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA",
+      "FechaInicio": 45485.460150463,
+      "FechaFinal": 45485.5208101852,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "20 - Insp Calidad SCR Energía",
+      "Nombre": "ISMAEL FRANCISCO TORRES ANGARITA",
+      "FechaInicio": 45485.4626273148,
+      "FechaFinal": 45485.5543055556,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JEAN CARLOS SANTIAGO PARDO",
+      "FechaInicio": 45489.4321064815,
+      "FechaFinal": 45490.2353935185,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JEAN CARLOS SANTIAGO PARDO",
+      "FechaInicio": 45489.4347916667,
+      "FechaFinal": 45490.2383333333,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "JEAN CARLOS SANTIAGO PARDO",
+      "FechaInicio": 45489.4409143518,
+      "FechaFinal": 45490.2428356481,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "ROBINSON DANIEL ORTEGA ROJAS",
+      "FechaInicio": 45490.4053819444,
+      "FechaFinal": 45491.573587963,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "ROBINSON DANIEL ORTEGA ROJAS",
+      "FechaInicio": 45490.4073263889,
+      "FechaFinal": 45491.583599537,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "21 - Insp Ambiental SCR Energía",
+      "Nombre": "ROBINSON DANIEL ORTEGA ROJAS",
+      "FechaInicio": 45490.4098148148,
+      "FechaFinal": 45491.5550231481,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "19 - Insp Seguridad SCR Energía",
+      "Nombre": "ALEXANDER JULIO HERNANDEZ",
+      "FechaInicio": 45490.4241898148,
+      "FechaFinal": 45491.5698148148,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "20 - Insp Calidad SCR Energía",
+      "Nombre": "ALEXANDER JULIO HERNANDEZ",
+      "FechaInicio": 45490.4247569444,
+      "FechaFinal": 45491.5658564815,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "21 - Insp Ambiental SCR Energía",
+      "Nombre": "ALEXANDER JULIO HERNANDEZ",
+      "FechaInicio": 45490.425150463,
+      "FechaFinal": 45491.5604282407,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "JABES PEREZ ORELLANOS",
+      "FechaInicio": 45490.4640625,
+      "FechaFinal": 45491.5765740741,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "JABES PEREZ ORELLANOS",
+      "FechaInicio": 45490.4653125,
+      "FechaFinal": 45491.6018518519,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "JABES PEREZ ORELLANOS",
+      "FechaInicio": 45490.4668171296,
+      "FechaFinal": 45491.6064583333,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "16 - Insp Seguridad Lec-Rep Energía",
+      "Nombre": "ELKIN ORTIZ PEÑARANDA",
+      "FechaInicio": 45490.4893981482,
+      "FechaFinal": 45491.5783101852,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "17 - Insp Calidad Lec-Rep Energía",
+      "Nombre": "ELKIN ORTIZ PEÑARANDA",
+      "FechaInicio": 45490.4918865741,
+      "FechaFinal": 45491.603900463,
+      "ResultInsp": "Conforme"
+    },
+    {
+      "TipoInspeccion": "18 - Insp Ambiental Lec-Rep Energía",
+      "Nombre": "ELKIN ORTIZ PEÑARANDA",
+      "FechaInicio": 45490.4937384259,
+      "FechaFinal": 45491.6080671296,
+      "ResultInsp": "Conforme"
+    }
+  ],
+  "InspPorHora": {
+    "TipoDocumento": "",
+    "CantidadTipoDocumento": 0,
+    "HoraTipoDocumento": ""
+  }
+}

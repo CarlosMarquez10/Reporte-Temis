@@ -1,0 +1,37 @@
+{
+  "Nombre": "RODRIGUEZ RIOS SOLANGEL ",
+  "Cedula": 1090983561,
+  "Rol": "Supervisor",
+  "ProyectoSede": "OCAÑA",
+  "Proceso": "OCAÑA",
+  "CantidadOperativa": 36,
+  "Cantidad_Inspecciones": 60,
+  "Cantidad_InpsPendiente": 60,
+  "Cantidad_NoConformidades": 0,
+  "OperarioConNocomformidad": [],
+  "Cantidad_Atentos": 0,
+  "OperarioConAtentos": [],
+  "Cantidad_Inpeccionados": 0,
+  "NombreInsPeccionados": [],
+  "Nombre_PtePorInspecciones": [
+    {
+      "Nombre": "ASCANIO PEREZ ALEXANDER",
+      "Proceso": "OCAÑA"
+    },
+    {
+      "Nombre": "ARENAS BALLESTEROS ESNEIDER YENIETT",
+      "Proceso": "OCAÑA"
+    }
+  ],
+  "Cantidad_PtePorInspecciones": 2,
+  "CantidaInspAnterior": 0,
+  "NombreInspAnterior": [],
+  "CantidadInspPosterior": 0,
+  "NombreInspPosterior": [],
+  "MotivoDeInspeccion": [],
+  "InspPorHora": {
+    "TipoDocumento": "",
+    "CantidadTipoDocumento": 0,
+    "HoraTipoDocumento": ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "ignore": [
+        "models/*.json",
+        "models/data/*.json",
+        "Res/*.json",
+        "Res/Inspectores/*.json"
+    ],
+    "ext": "js,json"
+}

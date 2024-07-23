@@ -1,0 +1,117 @@
+{
+  "Nombre": "GALAN ROPERO FRANCISCO EMANUEL",
+  "Cedula": 5401549,
+  "Rol": "Auxiliar-Supervisor",
+  "ProyectoSede": "CUCUTA",
+  "Proceso": "CUCUTA-DRASTICOS",
+  "CantidadOperativa": 13,
+  "Cantidad_Inspecciones": 60,
+  "Cantidad_InpsPendiente": 60,
+  "Cantidad_NoConformidades": 0,
+  "OperarioConNocomformidad": [],
+  "Cantidad_Atentos": 0,
+  "OperarioConAtentos": [],
+  "Cantidad_Inpeccionados": 0,
+  "NombreInsPeccionados": [],
+  "Nombre_PtePorInspecciones": [
+    {
+      "Nombre": "RODRIGUEZ QUINTERO EDUARDO",
+      "Proceso": "CUCUTA-INTERVENTOR"
+    },
+    {
+      "Nombre": "DUARTE MARTINEZ NELLY PATRICIA",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "RODRIGUEZ QUINTERO MARIA ISABEL",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "HERNANDEZ BADILLO NANCY",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "LOPEZ PEREZ FRANKLIN ",
+      "Proceso": "CUCUTA-DRASTICOS"
+    },
+    {
+      "Nombre": "MENDOZA PARDO EDGAR YOHEDMAR",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "PEREZ PEREZ CIRO",
+      "Proceso": "ADMIN"
+    },
+    {
+      "Nombre": "ORTEGA ORTIZ JULIETH NATALIA",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "MONTAÑEZ ROJAS ELIANA PATRICIA",
+      "Proceso": "CUCUTA-FACTURACION"
+    },
+    {
+      "Nombre": "JAIMES JAIMES EDSON ",
+      "Proceso": "CUCUTA-DRASTICOS"
+    },
+    {
+      "Nombre": "MEDINA SAAVEDRA DIEGO ANDRES",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "SUAREZ CABEZA MARCOS FIDEL",
+      "Proceso": "CUCUTA-ADMON"
+    },
+    {
+      "Nombre": "MARQUEZ VALENCIA CARLOS DAVID",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "GARCIA CONTRERAS CESAR EDUARDO",
+      "Proceso": "CUCUTA"
+    },
+    {
+      "Nombre": "ORTEGA NAVARRO OSMEL",
+      "Proceso": "CUCUTA"
+    },
+    {
+      "Nombre": "MENDOZA CASTRO JORMAN DAMIAN",
+      "Proceso": "CUCUTA-FACTURACION"
+    },
+    {
+      "Nombre": "PEÑARANDA OMEARA IVAN ANDRES ",
+      "Proceso": "CUCUTA-FACTURACION"
+    },
+    {
+      "Nombre": "GALLO SILVA ANDRES FELIPE",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "ORTIZ CORREA ANDERSON",
+      "Proceso": "CUCUTA-SSTA"
+    },
+    {
+      "Nombre": "GRISALES AILLON JHON ALEXANDER",
+      "Proceso": "CUCUTA-CGO"
+    },
+    {
+      "Nombre": "SIERRA JAIMES MIRYAM JOHANA",
+      "Proceso": "CUCUTA-SSTA"
+    },
+    {
+      "Nombre": "ACEVEDO ORTIZ CESAR AUGUSTO",
+      "Proceso": "CUCUTA-FACTURACION"
+    }
+  ],
+  "Cantidad_PtePorInspecciones": 22,
+  "CantidaInspAnterior": 0,
+  "NombreInspAnterior": [],
+  "CantidadInspPosterior": 0,
+  "NombreInspPosterior": [],
+  "MotivoDeInspeccion": [],
+  "InspPorHora": {
+    "TipoDocumento": "",
+    "CantidadTipoDocumento": 0,
+    "HoraTipoDocumento": ""
+  }
+}
